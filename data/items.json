@@ -364,5 +364,72 @@
     "title": "Vulnerability",
     "shortDesc": "Vulnerabilidade",
     "longDesc": "Se você tiver Vulnerabilidade a um tipo de dano, o dano desse tipo será dobrado contra você. Se você tiver Vulnerabilidade a dano de Fogo, esse dano será dobrado contra você."
+  },
+  {
+    "id": 1,
+    "title": "Ammunition",
+    "shortDesc": "Munição",
+    "longDesc": "Você pode usar uma arma que tenha a propriedade Munição para fazer um ataque à distância somente se tiver munição para disparar dela. O tipo de munição necessária é especificado com o alcance da arma. Cada ataque gasta uma peça de munição. Sacar a munição faz parte do ataque (você precisa de uma mão livre para carregar uma arma de uma mão). Após uma luta, você pode gastar 1 minuto para recuperar metade da munição (arredondada para baixo) que usou na luta; o resto é perdido."
+  },
+  {
+    "id": 2,
+    "title": "Finesse",
+    "shortDesc": "Acuidade",
+    "longDesc": "Ao fazer um ataque com uma arma Acuidade, use sua escolha de modificador de Força ou Destreza para as jogadas de ataque e dano. Você deve usar o mesmo modificador para ambas as jogadas."
+  },
+  {
+    "id": 3,
+    "title": "Heavy",
+    "shortDesc": "Pesado",
+    "longDesc": "Você tem Desvantagem em jogadas de ataque com uma arma Pesada se for uma arma corpo a corpo e seu valor de Força não for pelo menos 13 ou se for uma arma de longo alcance e seu valor de Destreza não for pelo menos 13."
+  },
+  {
+    "id": 4,
+    "title": "Improvised Weapons",
+    "shortDesc": "Armas Improvisadas",
+    "longDesc": "Se você usar um objeto — como uma perna de mesa, frigideira ou garrafa — como uma arma improvisada, veja “Armas Improvisadas” no glossário de regras. Veja também essas regras se você empunhar uma arma de forma incomum, como usar uma arma de longo alcance para fazer um ataque corpo a corpo."
+  },
+  {
+    "id": 5,
+    "title": "Light",
+    "shortDesc": "Leve",
+    "longDesc": "Quando você realiza a ação de Ataque no seu turno e ataca com uma arma Leve, você pode fazer um ataque extra como uma Ação Bônus mais tarde no mesmo turno. Esse ataque extra deve ser feito com uma arma Leve diferente, e você não adiciona seu modificador de habilidade ao dano do ataque extra, a menos que esse modificador seja negativo. Por exemplo, você pode atacar com uma Espada Curta em uma mão e uma Adaga na outra usando a ação de Ataque e uma Ação Bônus, mas você não adiciona seu modificador de Força ou Destreza à jogada de dano da Ação Bônus, a menos que esse modificador seja negativo."
+  },
+  {
+    "id": 6,
+    "title": "Loading",
+    "shortDesc": "Recargar",
+    "longDesc": "Você pode disparar apenas uma munição de uma arma de Recargar quando usa uma ação, uma Ação Bônus ou uma Reação para dispará-la, independentemente do número de ataques que você normalmente pode fazer."
+  },
+  {
+    "id": 7,
+    "title": "Range",
+    "shortDesc": "Alcance",
+    "longDesc": "Uma arma de Distância tem um alcance entre parênteses após a propriedade Munição ou Arremesso. O alcance lista dois números. O primeiro é o alcance normal da arma em pés, e o segundo é o longo alcance da arma. Ao atacar um alvo além do alcance normal, você tem Desvantagem na jogada de ataque. Você não pode atacar um alvo além do longo alcance."
+  },
+  {
+    "id": 8,
+    "title": "Reach",
+    "shortDesc": "Haste",
+    "longDesc": "Uma arma de haste adiciona 1,5 metros ao seu alcance quando você ataca com ela, bem como ao determinar seu alcance para Ataques de Oportunidade com ela."
+  },
+  {
+    "id": 9,
+    "title": "Thrown",
+    "shortDesc": "Arremessado",
+    "longDesc": "Se uma arma tiver a propriedade Arremessado, você pode arremessar a arma para fazer um ataque à distância, e pode sacar essa arma como parte do ataque. Se a arma for uma arma corpo a corpo, use o mesmo modificador de habilidade para as jogadas de ataque e dano que você usa para um ataque corpo a corpo com essa arma."
+  },
+  {
+    "id": 10,
+    "title": "Two-Handed",
+    "shortDesc": "Duas mãos",
+    "longDesc": "Uma arma de duas mãos requer duas mãos quando você ataca com ela."
+  },
+  {
+    "id": 11,
+    "title": "Versatile",
+    "shortDesc": "Versátil",
+    "longDesc": "Uma arma versátil pode ser usada com uma ou duas mãos. Um valor de dano entre parênteses aparece com a propriedade. A arma causa esse dano quando usada com as duas mãos para fazer um ataque corpo a corpo."
   }
+
 ]
