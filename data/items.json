@@ -70,5 +70,143 @@
     "title": "Utilize",
     "shortDesc": "Use um objeto não mágico.",
     "longDesc": "Você normalmente interage com um objeto enquanto faz outra coisa, como quando você desembainha uma espada como parte da ação de Ataque. Quando um objeto requer uma ação para seu uso, você realiza a ação Utilizar."
+  },
+  {
+    "id": 1,
+    "title": "Strength",
+    "shortDesc": "Seu poder muscular",
+    "longDesc": "Levantar, empurrar, puxar ou quebrar algo;\n\nResistir fisicamente à força direta."
+  },
+  {
+    "id": 2,
+    "title": "Dexterity",
+    "shortDesc": "Sua agilidade e reflexos",
+    "longDesc": "Mova-se com agilidade, rapidez ou silêncio;\n\nDesvie do perigo."
+  },
+  {
+    "id": 3,
+    "title": "Constitution",
+    "shortDesc": "Sua saúde e vigor",
+    "longDesc": "Leve seu corpo além dos limites normais;\n\nSuportar um risco tóxico."
+  },
+  {
+    "id": 4,
+    "title": "Intelligence",
+    "shortDesc": "Sua raciocínio e memória",
+    "longDesc": "Razão ou lembrar, Resista a um ataque mental;\n\nReconhecer uma ilusão como falsa."
+  },
+  {
+    "id": 5,
+    "title": "Wisdom",
+    "shortDesc": "Sua observação e ponderaçao",
+    "longDesc": "Observe coisas no ambiente ou no comportamento das criaturas;\n\nResista a um ataque mental."
+  },
+  {
+    "id": 6,
+    "title": "Charisma",
+    "shortDesc": "Sua simpacia, beleza e persuasão",
+    "longDesc": "Influenciar, entreter ou enganar;\n\nAfirme sua identidade."
+  },
+  {
+    "id": 1,
+    "title": "Action",
+    "shortDesc": "Ação",
+    "longDesc": "Você pode interagir com um objeto ou recurso do ambiente gratuitamente, durante seu movimento ou ação. Por exemplo, você pode abrir uma porta durante seu movimento enquanto caminha em direção a um inimigo.\n\nSe quiser interagir com um segundo objeto, você precisa realizar a ação Utilizar. Alguns itens mágicos e outros objetos especiais sempre exigem uma ação para serem usados, conforme indicado em suas descrições.\n\nO Mestre pode exigir que você use uma ação para qualquer uma dessas atividades quando ela precisar de cuidados especiais ou quando apresentar um obstáculo incomum. Por exemplo, o Mestre pode exigir que você execute a ação Utilizar para abrir uma porta emperrada ou girar uma manivela para abaixar uma ponte levadiça."
+  },
+  {
+    "id": 2,
+    "title": "Bônus action",
+    "shortDesc": "Ação bônus",
+    "longDesc": "Vários recursos de classe, feitiços e outras habilidades permitem que você execute uma ação adicional em seu turno chamada Ação Bônus. O recurso Ação Astuta, por exemplo, permite que um Ladino realize uma Ação Bônus. Você pode realizar uma Ação Bônus somente quando uma habilidade especial, um feitiço ou outro recurso do jogo indicar que você pode fazer algo como uma Ação Bônus.\n\nCaso contrário, você não terá uma ação bônus para realizar.\n\nVocê pode realizar apenas uma Ação Bônus no seu turno, então você deve escolher qual Ação Bônus usar se tiver mais de uma disponível.\n\nVocê escolhe quando realizar uma Ação Bônus durante seu turno, a menos que o momento da Ação Bônus seja especificado.\n\nQualquer coisa que o prive de sua capacidade de realizar ações também o impede de realizar uma Ação Bônus."
+  },
+  {
+    "id": 3,
+    "title": "Cover (3/4)",
+    "shortDesc": "Cobertura (3/4)",
+    "longDesc": "Paredes, árvores, criaturas e outros obstáculos podem fornecer cobertura, tornando o alvo mais difícil de atingir. Conforme detalhado na tabela de Cobertura, existem três graus de cobertura, cada um dos quais proporciona um benefício diferente a um alvo.\n\n+5 na CA e teste de resistência destreza.\n\nUm objeto que cubra pelo menos três quartos do alvo."
+  },
+  {
+    "id": 4,
+    "title": "Cover (half)",
+    "shortDesc": "Cobertura (meia)",
+    "longDesc": "Paredes, árvores, criaturas e outros obstáculos podem fornecer cobertura, tornando o alvo mais difícil de atingir. Conforme detalhado na tabela de Cobertura, existem três graus de cobertura, cada um dos quais proporciona um benefício diferente a um alvo.\n\n+2 na CA e teste de resistência destreza.\n\nOutra criatura ou objeto que cubra pelo menos metade do alvo."
+  },
+  {
+    "id": 5,
+    "title": "Cover total",
+    "shortDesc": "Cobertura total",
+    "longDesc": "Paredes, árvores, criaturas e outros obstáculos podem fornecer cobertura, tornando o alvo mais difícil de atingir. Conforme detalhado na tabela de Cobertura, existem três graus de cobertura, cada um dos quais proporciona um benefício diferente a um alvo.\n\nNão pode ser segmentado diretamente.\n\nUm objeto que cobre todo o alvo."
+  },
+  {
+    "id": 6,
+    "title": "Dead",
+    "shortDesc": "Morto",
+    "longDesc": "Uma criatura morta não tem Pontos de Vida e não pode recuperá-los a menos que seja primeiro revivida por magia como o feitiço Raise Dead ou Revivify. Quando tal feitiço é lançado, o espírito sabe quem o está lançando e pode recusar. O espírito de uma criatura morta deixou o corpo e partiu para os Planos Exteriores,\r\ne reviver a criatura requer chamar o espírito de volta.\r\n\r\nSe a criatura retornar à vida, o efeito de renascimento determinará os Pontos de Vida atuais da criatura. Salvo indicação em contrário, a criatura retorna à vida com quaisquer condições, contágios mágicos ou maldições que a afetavam no momento da morte, se a duração desses efeitos ainda estiver em andamento.\r\nSe a criatura morreu com qualquer nível de Exaustão, ela retorna com 1 nível a menos. Se a criatura tiver sintonização com um ou mais itens mágicos, ela não estará mais sintonizada com eles."
+  },
+  {
+    "id": 7,
+    "title": "Dropping prone",
+    "shortDesc": "Jogar-se no chão",
+    "longDesc": "No seu turno, você pode obter a condição Caído (veja o glossário de regras) sem usar uma ação ou qualquer velocidade, mas não pode fazer isso se sua Velocidade for 0."
+  },
+  {
+    "id": 8,
+    "title": "Initiative",
+    "shortDesc": "Iniciativa",
+    "longDesc": "A iniciativa determina a ordem dos turnos durante o combate. Quando o combate começa, cada participante testa Iniciativa; eles fazem um teste de Destreza que determina seu lugar na ordem de Iniciativa. O Mestre rola para monstros. Para um grupo de criaturas idênticas, o Mestre faz uma única jogada, de modo que cada membro do grupo tenha a mesma Iniciativa."
+  },
+  {
+    "id": 9,
+    "title": "Melee Attacks",
+    "shortDesc": "Ataque corpo a corpo",
+    "longDesc": "Um ataque corpo a corpo permite que você ataque um alvo ao seu alcance. Um ataque corpo a corpo normalmente usa uma arma portátil ou um Ataque Desarmado. Muitos monstros fazem ataques corpo a corpo com garras, dentes ou outras partes do corpo. Alguns feitiços também envolvem ataques corpo a corpo.\n\nAlcance: Uma criatura tem alcance de um pé e pode, portanto, atacar alvos em um raio de 1,5 metro ao fazer um ataque corpo a corpo. Certas criaturas têm ataques corpo a corpo com alcance superior a 1,5 metro, conforme observado em suas descrições.\n\nAtaques de oportunidade: Os combatentes esperam que os inimigos baixem a guarda. Se você passar descuidadamente por seus inimigos, você se coloca em perigo ao provocar um Ataque de Oportunidade.\n\nEvitando ataques de oportunidade: Você pode evitar provocar um Ataque de Oportunidade realizando a ação Desengajar. Você também não provoca um Ataque de Oportunidade quando se Teletransporta ou quando é movido sem usar seu movimento, ação, Ação Bônus ou Reação. Por exemplo, você não provoca um Ataque de Oportunidade se uma explosão o arremessar para fora do alcance de um inimigo ou se você passar por um inimigo.\n\nFazendo um ataque de oportunidade: Você pode fazer um Ataque de Oportunidade quando uma criatura que você pode ver sai do seu alcance. Para fazer o ataque,\nrealize uma Reação para realizar um ataque corpo a corpo com uma arma ou um Ataque Desarmado contra aquela criatura. O ataque ocorre logo antes de sair do seu alcance."
+  },
+  {
+    "id": 10,
+    "title": "Mounted Combat",
+    "shortDesc": "Combate montado",
+    "longDesc": "Uma criatura voluntária que seja pelo menos um tamanho maior que um cavaleiro e que tenha uma anatomia apropriada pode servir como montaria, usando as seguintes regras.\n\nMontagem e Desmontagem: Durante seu movimento, você pode montar em uma criatura que esteja a até 1,5 metro (5 fts) de você ou desmontar. Fazer isso custa uma quantidade de movimento igual à metade do seu Deslocamento (arredondada para baixo). Por exemplo, se seu Deslocamentofor 9 metros, você gasta 4,5 metros de movimento para montar um cavalo.\n\nControlando uma montaria: Você só pode controlar uma montaria se ela tiver sido treinada para aceitar um cavaleiro. Cavalos domesticados, mulas e criaturas semelhantes recebem esse treinamento.\n\nA Iniciativa de uma montaria controlada muda para corresponder à sua quando você a monta. Ele se move no seu turno conforme você o direciona e tem apenas três opções de ação durante esse turno: Correr, Desengajar e Esquivar. Uma montaria controlada pode se mover e agir mesmo no turno em que você a monta.\n\nEm contraste, uma montaria independente – que permite montar, mas ignora seu controle – mantém seu lugar na ordem de Iniciativa e se move e age como quiser.\n\nCaindo da montaria: Se um efeito estiver prestes a mover sua montaria contra a vontade enquanto você estiver montado nela, você deve ser bem sucedido em um teste de resistência de Destreza CD 10 ou cairá, caindo na condição Caído (veja o glossário de regras) em um espaço desocupado a até 1,5 metro da montaria.\n\nEnquanto estiver montado, você deve fazer o mesmo salvamento se for derrubado ou se a montaria estiver."
+  },
+  {
+    "id": 11,
+    "title": "Movimente",
+    "shortDesc": "Movimento",
+    "longDesc": "Uma criatura tem Velocidade, que é a distância em pés que a criatura pode percorrer quando se move em seu turno. Veja também “Escalar”, “Rastejar”, ​​“Voar”, “Saltar”, “Natação” e o capítulo 1 (“Combate”)."
+  },
+  {
+    "id": 12,
+    "title": "Opportunity attacks",
+    "shortDesc": "Ataque de oportunidade",
+    "longDesc": "Você pode fazer um Ataque de Oportunidade quando uma criatura que você pode ver sai do seu alcance usando sua ação, sua Ação Bônus, sua Reação ou uma de suas velocidades. Para realizar o Ataque de Oportunidade, realize uma Reação para realizar um ataque corpo a corpo com uma arma ou um Ataque Desarmado contra a criatura provocadora.\r\nO ataque ocorre logo antes da criatura sair do seu alcance. Veja também o capítulo 1 (“Combate”)."
+  },
+  {
+    "id": 13,
+    "title": "Ranged Attacks",
+    "shortDesc": "Ataque à distância",
+    "longDesc": "Quando você faz um ataque à distância, você dispara um arco, arremessa um machado ou envia projéteis para atingir um inimigo à distância. Muitos feitiços também envolvem ataques à distância.\n\nVocê pode realizar ataques à distância apenas contra alvos dentro de um alcance específico. Se um ataque à distância, como um feito com uma magia, tiver um único alcance, você não pode atacar um alvo além deste alcance. Alguns ataques à distância, como aqueles feitos com arco longo, têm dois alcances. O número menor é o intervalo normal e o número maior é o intervalo longo. Sua jogada de ataque tem Desvantagem quando seu alvo está além do alcance normal e você não pode atacar um alvo além do alcance longo.\n\nAtaques à distância em combate corpo a corpo: Mirar um ataque à distância é mais difícil quando um inimigo está próximo a você. Quando você faz uma jogada de ataque à distância com uma arma, um feitiço ou algum outro meio, você tem Desvantagem na jogada se estiver a até 1,5 metro de um inimigo que possa vê-lo e não tenha a condição Incapacitado (veja as regras glossário)."
+  },
+  {
+    "id": 14,
+    "title": "Reation",
+    "shortDesc": "Reação",
+    "longDesc": "Uma Reação é uma ação especial realizada em resposta a um gatilho definido na descrição da Reação. Você pode realizar uma Reação no turno de outra criatura e, se fizer isso no seu turno, poderá fazê-lo mesmo que também realize uma ação, uma Ação Bônus ou ambas. Depois de realizar uma Reação, você não poderá realizar outra até o início do seu próximo turno.\n,\nO Ataque de Oportunidade é uma Reação disponível para todas as criaturas. Consulte também “Ataques de oportunidade” e capítulo 1 (“Ações”)."
+  },
+  {
+    "id": 15,
+    "title": "Spell Attack",
+    "shortDesc": "Ataque Mágico",
+    "longDesc": "Um ataque mágico é uma jogada de ataque feita como parte de um feitiço ou outro efeito mágico. Veja também o capítulo 7 (“Lançando Feitiços”)."
+  },
+  {
+    "id": 16,
+    "title": "Stunned",
+    "shortDesc": "Atordoado",
+    "longDesc": "Se um combatente for surpreendido ao iniciar o combate, esse combatente terá Desvantagem em seu teste de Iniciativa. Por exemplo, se um emboscador inicia o combate enquanto está escondido de um inimigo que não sabe que o combate está começando, esse inimigo fica surpreso."
+  },
+  {
+    "id": 17,
+    "title": "Underwater Combat",
+    "shortDesc": "Combate Subaquático",
+    "longDesc": "Uma luta debaixo d'água segue estas regras.\n\nArmas Impedidas: Ao fazer uma jogada de ataque corpo a corpo com uma arma debaixo d'água, uma criatura que não tenha Velocidade de Natação terá Desvantagem na jogada de ataque, a menos que a arma cause dano Perfurante.\n\nUma jogada de ataque à distância com uma arma debaixo d'água erra automaticamente um alvo além do alcance normal da arma, e a jogada de ataque tem Desvantagem contra um alvo dentro do alcance normal.\n\nResistência ao fogo: Qualquer coisa debaixo d'água tem Resistência ao dano de Fogo (explicado em “Dano e Cura”)."
   }
 ]
