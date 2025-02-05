@@ -1,6 +1,6 @@
 async function loadItems() {
   try {
-    const response = await fetch("../data/items.json"); // Changed path
+    const response = await fetch("../data/items.json");
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
@@ -33,15 +33,14 @@ async function renderItems() {
     const itemElement = document.createElement("div");
     itemElement.className = "desc-item";
     itemElement.innerHTML = `
-      <h1 class="title">${item.title}</h1>
-      <p class="short-desc">${item.shortDesc}</p>
-      <div class="long-desc">${item.longDesc}</div>
+      <h1 class="title">${item.title}<span class="trans-title"> (${item.transTitle}) </span>  <span class="tag">${item.tag}</span></h1>
+      <p class="short-desc"> ${item.shortDesc}</p>
+      <div class="full-desc">${item.fullDesc}</div>
     `;
     container.appendChild(itemElement);
   });
 }
 
-// Add event listener after DOM loads
 document.addEventListener("DOMContentLoaded", () => {
   renderItems();
 
@@ -50,8 +49,10 @@ document.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll(".desc-item").forEach((item) => {
       const textContent = [
         item.querySelector(".title").textContent,
+        item.querySelector(".trans-title").textContent,
         item.querySelector(".short-desc").textContent,
-        item.querySelector(".long-desc").textContent,
+        item.querySelector(".full-desc").textContent,
+        item.querySelector(".tag").textContent,
       ]
         .join(" ")
         .toLowerCase();
