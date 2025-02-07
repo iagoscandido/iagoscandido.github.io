@@ -1,751 +1,751 @@
 [
-  {
-    "title": "Help",
-    "transTitle": "Ajudar",
-    "tag": "Ação",
-    "shortDesc": "Ajude no teste de habilidade ou na jogada de ataque de outra criatura, ou administre os primeiros socorros.",
-    "fullDesc": "Ao realizar a ação Ajuda, você faz uma das seguintes ações.\n\nAuxiliar um Teste de Habilidade. Escolha uma de suas proficiências em perícia ou ferramenta e um aliado que esteja perto o suficiente para você ajudar verbalmente ou fisicamente quando ele fizer um teste de habilidade. Esse aliado tem Vantagem no próximo teste de habilidade que fizer com a perícia ou ferramenta escolhida. Esse benefício expira se o aliado não usá-lo antes do início do seu próximo turno. O Mestre tem a palavra final sobre se sua assistência é possível.\n\nAuxiliar um Teste de Ataque. Você distrai momentaneamente um inimigo a até 1,5 m de você, dando Vantagem ao próximo teste de ataque de um de seus aliados contra esse inimigo. Esse benefício expira no início do seu próximo turno."
-  },
-  {
-    "title": "Attack",
-    "transTitle": "Atacar",
-    "tag": "Ação",
-    "shortDesc": "Ataque com uma arma ou um Ataque Desarmado.",
-    "fullDesc": "Ao realizar a ação Ataque, você pode fazer uma jogada de ataque com uma arma ou um Ataque Desarmado.\n\nEquipando e Desequipando Armas. Você pode equipar ou desequipar uma arma ao fazer um ataque como parte desta ação. Você faz isso antes ou depois do ataque. Se você equipar uma arma antes de um ataque, não precisa usá-la para esse ataque. Equipar uma arma inclui retirá-la de uma bainha ou pegá-la. Desequipar uma arma inclui embainhá-la, guardá-la ou largá-la.\n\nMovendo-se entre Ataques: Se você se mover no seu turno e tiver um recurso, como Ataque Extra, que lhe dá mais de um ataque como parte da ação Ataque, você pode usar parte ou todo esse movimento para se mover entre esses ataques."
-  },
-  {
-    "title": "Dash",
-    "transTitle": "Correr",
-    "tag": "Ação",
-    "shortDesc": "Durante o resto do turno, você receberá movimento extra igual à sua Velocidade.",
-    "fullDesc": "Ao realizar a ação de Correr, você ganha movimento extra no turno atual. O aumento é igual à sua Deslocamento após aplicar quaisquer modificadores. Com um Deslocamento de 9 metros, por exemplo, você pode se mover até 18 metros no seu turno se você sua uma ação de Correr. Se seu Deslocamento de 9 metros for reduzida 4,5 metros, você pode se mover até 9 metros neste turno se você fizer uma ação de correr.\n\nSe você tiver um deslocamento especial, como uma Velocidade de Voo ou Velocidade de Natação, você pode usar essa velocidade em vez da sua Velocidade ao realizar esta ação. Você escolhe qual velocidade usar cada vez que a realiza. Veja também “Velocidade”."
-  },
-  {
-    "title": "Disengage",
-    "transTitle": "Desengajar",
-    "tag": "Ação",
-    "shortDesc": "Seu movimento não provoca Ataque de Oportunidade pelo resto do turno.",
-    "fullDesc": "Se você realizar a ação Desengajar, seu movimento não provocará Ataques de Oportunidade pelo resto do turno atual."
-  },
-  {
-    "title": "Hide",
-    "transTitle": "Esconder",
-    "tag": "Ação",
-    "shortDesc": "Faça um teste de Destreza (Furtividade).",
-    "fullDesc": "Com a ação Esconder, você tenta se esconder. Para fazer isso, você deve ter sucesso em um teste de Destreza (Furtividade) CD 15 enquanto estiver Fortemente Obscurecido ou atrás de Cobertura de Três Quartos ou Cobertura Total, e você deve estar fora da linha de visão de qualquer inimigo; se você puder ver uma criatura, você pode discernir se ela pode ver você.\n\nEm um teste bem-sucedido, você tem a condição Invisível. Anote o total do seu teste, que é a CD para uma criatura encontrar você com um teste de Sabedoria (Percepção).\n\nA condição termina em você imediatamente após qualquer um dos seguintes ocorrer: você faz um som mais alto que um sussurro, um inimigo encontra você, você faz uma jogada de ataque ou conjura uma magia com um componente Verbal."
-  },
-  {
-    "title": "Dodge",
-    "transTitle": "Esquivar",
-    "tag": "Ação",
-    "shortDesc": "Até o início do seu próximo turno, as jogadas de ataque contra você têm Desvantagem e você faz testes de resistência de Destreza com Vantagem. Você perde este benefício se tiver a condição Incapacitado ou se sua Velocidade for 0.",
-    "fullDesc": "Se você fizer a ação Esquivar, você ganha os seguintes benefícios: até o início do seu próximo turno, qualquer jogada de ataque feita contra você tem Desvantagem se você puder ver o atacante, e você faz testes de resistência de Destreza com Vantagem.\n\nVocê perde esses benefícios se tiver a condição Incapacitado ou se sua Velocidade for 0."
-  },
-  {
-    "title": "Influence",
-    "transTitle": "Influenciar",
-    "tag": "Ação",
-    "shortDesc": "Faça um teste de Carisma (Enganação, Intimidação, Atuação ou Persuasão) ou Sabedoria (Manejo de Animais) para alterar a atitude de uma criatura.",
-    "fullDesc": "Com a ação Influência, você incita um monstro a fazer algo. Descreva ou interprete como você está se comunicando com o monstro. Você está tentando enganar, intimidar, divertir ou persuadir gentilmente? O Mestre então determina se o monstro se sente disposto, relutante ou hesitante devido à sua interação; essa determinação estabelece se um teste de habilidade é necessário, conforme explicado abaixo.\n\nDisposto: Se seu desejo se alinha com os desejos do monstro, nenhum teste de habilidade é necessário; o monstro atende ao seu pedido da maneira que ele prefere.\n\nRelutante: Se seu desejo é repugnante ao monstro ou contrário ao seu alinhamento, nenhum teste de habilidade é necessário; ele não obedece.\n\nHesitante: Se você incita o monstro a fazer algo que ele hesita em fazer, você deve fazer um teste de habilidade, que é afetado pela atitude do monstro: Indiferente, Amigável ou Hostil, cada um dos quais é definido neste glossário. A tabela de Testes de Influência sugere qual teste de habilidade fazer com base em como você está interagindo com o monstro. O Mestre escolhe o teste, que tem uma CD padrão igual a 15 ou a pontuação de Inteligência do monstro, o que for maior. Em um teste bem-sucedido, o monstro faz o que foi solicitado. Em um teste falho, você deve esperar 24 horas (ou uma duração definida pelo Mestre) antes de instigá-lo da mesma forma novamente.\n\nTestes de Influência\nTeste de Habilidade - Interação\nCarisma (Engano) - Enganar um monstro que entende você\nCarisma (Intimidação) - Intimidar um monstro\nCarisma (Desempenho) - Divertir um monstro\nCarisma (Persuasão) - Persuadir um monstro que entende você\nSabedoria (Manipulação de Animais) - Gentilmente persuadir uma Besta ou Monstruosidade"
-  },
-  {
-    "title": "Study",
-    "transTitle": "Investigar",
-    "tag": "Ação",
-    "shortDesc": "Faça um teste de Inteligência (Arcanismo, História, Investigação, Natureza ou Religião).",
-    "fullDesc": "Quando você realiza a ação Estudar, você faz um teste de Inteligência para estudar sua memória, um livro, uma pista ou outra fonte de conhecimento e lembrar de uma informação importante sobre ela.\n\nA tabela Áreas de Conhecimento sugere quais perícias são aplicáveis ​​a várias áreas de conhecimento.\n\nÁreas de Conhecimento: Habilidade - Áreas\n\nArcana - Magias, itens mágicos, símbolos sobrenaturais, tradições mágicas, planos de existência e certas criaturas (Aberrações, Construtos, Elementais, Fey e Monstruosidades)\nHistória - Eventos e pessoas históricas, civilizações antigas, guerras e certas criaturas (Gigantes e Humanoides)\nInvestigação - Armadilhas, cifras, enigmas e engenhocas\nNatureza - Terreno, flora, clima e certas criaturas (Bestas, Dragões, Gosmas e Plantas)\nReligião - Divindades, hierarquias e ritos religiosos, símbolos sagrados, cultos e certas criaturas (Celestiais, Demônios e Mortos-Vivos)"
-  },
-  {
-    "title": "Magic",
-    "transTitle": "Magica",
-    "tag": "Ação",
-    "shortDesc": "Lance um feitiço, use um item mágico ou use um recurso mágico.",
-    "fullDesc": "Quando você realiza a ação de Magia, você conjura uma magia que tem um tempo de conjuração de uma ação ou usa uma característica ou item mágico que requer uma ação de Magia para ser ativado.\n\nSe você conjurar uma magia que tem um tempo de conjuração de 1 minuto ou mais, você deve realizar a ação de Magia em cada turno dessa conjuração, e você deve manter Concentração enquanto faz isso. Se sua Concentração for quebrada, a magia falha, mas você não gasta um espaço de magia. Veja também “Concentração”."
-  },
-  {
-    "title": "Ready",
-    "transTitle": "Preparar",
-    "tag": "Ação",
-    "shortDesc": "Lance um feitiço, use um item mágico ou use um recurso mágico.",
-    "fullDesc": "Você toma a ação Preparar para esperar por uma circunstância específica antes de agir. Para fazer isso, você toma essa ação no seu turno, o que lhe permite agir tomando uma Reação antes do início do seu próximo turno.\n\nPrimeiro, você decide qual circunstância perceptível acionará sua Reação. Então, você escolhe a ação que tomará em resposta a esse gatilho, ou escolhe aumentar sua Velocidade em resposta a ele. Exemplos incluem \"Se o cultista pisar no alçapão, eu puxo a alavanca que o abre\" e \"Se o zumbi pisar perto de mim, eu me afasto\".\n\nQuando o gatilho ocorre, você pode tomar sua Reação logo após o gatilho terminar ou ignorar o gatilho.\n\nQuando você Prepara uma magia, você a conjura normalmente (gastando quaisquer recursos usados ​​para conjurá-la), mas mantém sua energia, que você libera com sua Reação quando o gatilho ocorre. Para ser preparada, uma magia deve ter um tempo de conjuração de uma ação, e manter a magia da magia requer Concentração, que você pode manter até o início do seu próximo turno. Se sua Concentração for quebrada, o feitiço se dissipará sem fazer efeito."
-  },
-  {
-    "title": "Search",
-    "transTitle": "Procurar",
-    "tag": "Ação",
-    "shortDesc": "Faça um teste de Sabedoria (Intuição, Medicina, Percepção ou Sobrevivência).",
-    "fullDesc": "Quando você realiza a ação de Procurar, você faz um teste de Sabedoria para discernir algo que não é óbvio. A tabela de Procurar sugere quais habilidades são aplicáveis ​​quando você realiza esta ação, dependendo do que você está tentando detectar.\n\nHabilidade - Coisa a ser Detectada\n\nInsight - Estado de espírito da criatura\nMedicina - Doença ou causa da morte da criatura\nPercepção - Criatura ou objeto oculto\nSobrevivência - Rastros ou comida"
-  },
-  {
-    "title": "Utilize",
-    "transTitle": "Utilizar",
-    "tag": "Ação",
-    "shortDesc": "Use um objeto não mágico.",
-    "fullDesc": "Você normalmente interage com um objeto enquanto faz outra coisa, como quando você desembainha uma espada como parte da ação de Ataque. Quando um objeto requer uma ação para seu uso, você realiza a ação Utilizar."
-  },
+    {
+      "title": "Help",
+      "transTitle": "Ajudar",
+      "tag": "Ação",
+      "shortDesc": "Ajude no teste de habilidade ou na jogada de ataque de outra criatura, ou administre os primeiros socorros.",
+      "fullDesc": "Ao realizar a ação Ajuda, você faz uma das seguintes ações.\n\nAuxiliar um Teste de Habilidade. Escolha uma de suas proficiências em perícia ou ferramenta e um aliado que esteja perto o suficiente para você ajudar verbalmente ou fisicamente quando ele fizer um teste de habilidade. Esse aliado tem Vantagem no próximo teste de habilidade que fizer com a perícia ou ferramenta escolhida. Esse benefício expira se o aliado não usá-lo antes do início do seu próximo turno. O Mestre tem a palavra final sobre se sua assistência é possível.\n\nAuxiliar um Teste de Ataque. Você distrai momentaneamente um inimigo a até 1,5 m de você, dando Vantagem ao próximo teste de ataque de um de seus aliados contra esse inimigo. Esse benefício expira no início do seu próximo turno."
+    },
+    {
+      "title": "Attack",
+      "transTitle": "Atacar",
+      "tag": "Ação",
+      "shortDesc": "Ataque com uma arma ou um Ataque Desarmado.",
+      "fullDesc": "Ao realizar a ação Ataque, você pode fazer uma jogada de ataque com uma arma ou um Ataque Desarmado.\n\nEquipando e Desequipando Armas. Você pode equipar ou desequipar uma arma ao fazer um ataque como parte desta ação. Você faz isso antes ou depois do ataque. Se você equipar uma arma antes de um ataque, não precisa usá-la para esse ataque. Equipar uma arma inclui retirá-la de uma bainha ou pegá-la. Desequipar uma arma inclui embainhá-la, guardá-la ou largá-la.\n\nMovendo-se entre Ataques: Se você se mover no seu turno e tiver um recurso, como Ataque Extra, que lhe dá mais de um ataque como parte da ação Ataque, você pode usar parte ou todo esse movimento para se mover entre esses ataques."
+    },
+    {
+      "title": "Dash",
+      "transTitle": "Correr",
+      "tag": "Ação",
+      "shortDesc": "Durante o resto do turno, você receberá movimento extra igual à sua Velocidade.",
+      "fullDesc": "Ao realizar a ação de Correr, você ganha movimento extra no turno atual. O aumento é igual à sua Deslocamento após aplicar quaisquer modificadores. Com um Deslocamento de 9 metros, por exemplo, você pode se mover até 18 metros no seu turno se você sua uma ação de Correr. Se seu Deslocamento de 9 metros for reduzida 4,5 metros, você pode se mover até 9 metros neste turno se você fizer uma ação de correr.\n\nSe você tiver um deslocamento especial, como uma Velocidade de Voo ou Velocidade de Natação, você pode usar essa velocidade em vez da sua Velocidade ao realizar esta ação. Você escolhe qual velocidade usar cada vez que a realiza. Veja também “Velocidade”."
+    },
+    {
+      "title": "Disengage",
+      "transTitle": "Desengajar",
+      "tag": "Ação",
+      "shortDesc": "Seu movimento não provoca Ataque de Oportunidade pelo resto do turno.",
+      "fullDesc": "Se você realizar a ação Desengajar, seu movimento não provocará Ataques de Oportunidade pelo resto do turno atual."
+    },
+    {
+      "title": "Hide",
+      "transTitle": "Esconder",
+      "tag": "Ação",
+      "shortDesc": "Faça um teste de Destreza (Furtividade).",
+      "fullDesc": "Com a ação Esconder, você tenta se esconder. Para fazer isso, você deve ter sucesso em um teste de Destreza (Furtividade) CD 15 enquanto estiver Fortemente Obscurecido ou atrás de Cobertura de Três Quartos ou Cobertura Total, e você deve estar fora da linha de visão de qualquer inimigo; se você puder ver uma criatura, você pode discernir se ela pode ver você.\n\nEm um teste bem-sucedido, você tem a condição Invisível. Anote o total do seu teste, que é a CD para uma criatura encontrar você com um teste de Sabedoria (Percepção).\n\nA condição termina em você imediatamente após qualquer um dos seguintes ocorrer: você faz um som mais alto que um sussurro, um inimigo encontra você, você faz uma jogada de ataque ou conjura uma magia com um componente Verbal."
+    },
+    {
+      "title": "Dodge",
+      "transTitle": "Esquivar",
+      "tag": "Ação",
+      "shortDesc": "Até o início do seu próximo turno, as jogadas de ataque contra você têm Desvantagem e você faz testes de resistência de Destreza com Vantagem. Você perde este benefício se tiver a condição Incapacitado ou se sua Velocidade for 0.",
+      "fullDesc": "Se você fizer a ação Esquivar, você ganha os seguintes benefícios: até o início do seu próximo turno, qualquer jogada de ataque feita contra você tem Desvantagem se você puder ver o atacante, e você faz testes de resistência de Destreza com Vantagem.\n\nVocê perde esses benefícios se tiver a condição Incapacitado ou se sua Velocidade for 0."
+    },
+    {
+      "title": "Influence",
+      "transTitle": "Influenciar",
+      "tag": "Ação",
+      "shortDesc": "Faça um teste de Carisma (Enganação, Intimidação, Atuação ou Persuasão) ou Sabedoria (Manejo de Animais) para alterar a atitude de uma criatura.",
+      "fullDesc": "Com a ação Influência, você incita um monstro a fazer algo. Descreva ou interprete como você está se comunicando com o monstro. Você está tentando enganar, intimidar, divertir ou persuadir gentilmente? O Mestre então determina se o monstro se sente disposto, relutante ou hesitante devido à sua interação; essa determinação estabelece se um teste de habilidade é necessário, conforme explicado abaixo.\n\nDisposto: Se seu desejo se alinha com os desejos do monstro, nenhum teste de habilidade é necessário; o monstro atende ao seu pedido da maneira que ele prefere.\n\nRelutante: Se seu desejo é repugnante ao monstro ou contrário ao seu alinhamento, nenhum teste de habilidade é necessário; ele não obedece.\n\nHesitante: Se você incita o monstro a fazer algo que ele hesita em fazer, você deve fazer um teste de habilidade, que é afetado pela atitude do monstro: Indiferente, Amigável ou Hostil, cada um dos quais é definido neste glossário. A tabela de Testes de Influência sugere qual teste de habilidade fazer com base em como você está interagindo com o monstro. O Mestre escolhe o teste, que tem uma CD padrão igual a 15 ou a pontuação de Inteligência do monstro, o que for maior. Em um teste bem-sucedido, o monstro faz o que foi solicitado. Em um teste falho, você deve esperar 24 horas (ou uma duração definida pelo Mestre) antes de instigá-lo da mesma forma novamente.\n\nTestes de Influência\nTeste de Habilidade - Interação\nCarisma (Engano) - Enganar um monstro que entende você\nCarisma (Intimidação) - Intimidar um monstro\nCarisma (Desempenho) - Divertir um monstro\nCarisma (Persuasão) - Persuadir um monstro que entende você\nSabedoria (Manipulação de Animais) - Gentilmente persuadir uma Besta ou Monstruosidade"
+    },
+    {
+      "title": "Study",
+      "transTitle": "Investigar",
+      "tag": "Ação",
+      "shortDesc": "Faça um teste de Inteligência (Arcanismo, História, Investigação, Natureza ou Religião).",
+      "fullDesc": "Quando você realiza a ação Estudar, você faz um teste de Inteligência para estudar sua memória, um livro, uma pista ou outra fonte de conhecimento e lembrar de uma informação importante sobre ela.\n\nA tabela Áreas de Conhecimento sugere quais perícias são aplicáveis ​​a várias áreas de conhecimento.\n\nÁreas de Conhecimento: Habilidade - Áreas\n\nArcana - Magias, itens mágicos, símbolos sobrenaturais, tradições mágicas, planos de existência e certas criaturas (Aberrações, Construtos, Elementais, Fey e Monstruosidades)\nHistória - Eventos e pessoas históricas, civilizações antigas, guerras e certas criaturas (Gigantes e Humanoides)\nInvestigação - Armadilhas, cifras, enigmas e engenhocas\nNatureza - Terreno, flora, clima e certas criaturas (Bestas, Dragões, Gosmas e Plantas)\nReligião - Divindades, hierarquias e ritos religiosos, símbolos sagrados, cultos e certas criaturas (Celestiais, Demônios e Mortos-Vivos)"
+    },
+    {
+      "title": "Magic",
+      "transTitle": "Magica",
+      "tag": "Ação",
+      "shortDesc": "Lance um feitiço, use um item mágico ou use um recurso mágico.",
+      "fullDesc": "Quando você realiza a ação de Magia, você conjura uma magia que tem um tempo de conjuração de uma ação ou usa uma característica ou item mágico que requer uma ação de Magia para ser ativado.\n\nSe você conjurar uma magia que tem um tempo de conjuração de 1 minuto ou mais, você deve realizar a ação de Magia em cada turno dessa conjuração, e você deve manter Concentração enquanto faz isso. Se sua Concentração for quebrada, a magia falha, mas você não gasta um espaço de magia. Veja também “Concentração”."
+    },
+    {
+      "title": "Ready",
+      "transTitle": "Preparar",
+      "tag": "Ação",
+      "shortDesc": "Lance um feitiço, use um item mágico ou use um recurso mágico.",
+      "fullDesc": "Você toma a ação Preparar para esperar por uma circunstância específica antes de agir. Para fazer isso, você toma essa ação no seu turno, o que lhe permite agir tomando uma Reação antes do início do seu próximo turno.\n\nPrimeiro, você decide qual circunstância perceptível acionará sua Reação. Então, você escolhe a ação que tomará em resposta a esse gatilho, ou escolhe aumentar sua Velocidade em resposta a ele. Exemplos incluem \"Se o cultista pisar no alçapão, eu puxo a alavanca que o abre\" e \"Se o zumbi pisar perto de mim, eu me afasto\".\n\nQuando o gatilho ocorre, você pode tomar sua Reação logo após o gatilho terminar ou ignorar o gatilho.\n\nQuando você Prepara uma magia, você a conjura normalmente (gastando quaisquer recursos usados ​​para conjurá-la), mas mantém sua energia, que você libera com sua Reação quando o gatilho ocorre. Para ser preparada, uma magia deve ter um tempo de conjuração de uma ação, e manter a magia da magia requer Concentração, que você pode manter até o início do seu próximo turno. Se sua Concentração for quebrada, o feitiço se dissipará sem fazer efeito."
+    },
+    {
+      "title": "Search",
+      "transTitle": "Procurar",
+      "tag": "Ação",
+      "shortDesc": "Faça um teste de Sabedoria (Intuição, Medicina, Percepção ou Sobrevivência).",
+      "fullDesc": "Quando você realiza a ação de Procurar, você faz um teste de Sabedoria para discernir algo que não é óbvio. A tabela de Procurar sugere quais habilidades são aplicáveis ​​quando você realiza esta ação, dependendo do que você está tentando detectar.\n\nHabilidade - Coisa a ser Detectada\n\nInsight - Estado de espírito da criatura\nMedicina - Doença ou causa da morte da criatura\nPercepção - Criatura ou objeto oculto\nSobrevivência - Rastros ou comida"
+    },
+    {
+      "title": "Utilize",
+      "transTitle": "Utilizar",
+      "tag": "Ação",
+      "shortDesc": "Use um objeto não mágico.",
+      "fullDesc": "Você normalmente interage com um objeto enquanto faz outra coisa, como quando você desembainha uma espada como parte da ação de Ataque. Quando um objeto requer uma ação para seu uso, você realiza a ação Utilizar."
+    },
+    
+    {
+      "title": "Strength",
+      "transTitle": "Força",
+      "tag": "Atributo",
+      "shortDesc": "Seu poder muscular",
+      "fullDesc": "Levantar, empurrar, puxar ou quebrar algo;\n\nResistir fisicamente à força direta."
+    },
+    {
+      "title": "Dexterity",
+      "transTitle": "Destreza",
+      "tag": "Atributo",
+      "shortDesc": "Sua agilidade e reflexos",
+      "fullDesc": "Mova-se com agilidade, rapidez ou silêncio;\n\nDesvie do perigo."
+    },
+    {
+      "title": "Constitution",
+      "transTitle": "Constituição",
+      "tag": "Atributo",
+      "shortDesc": "Sua saúde e vigor",
+      "fullDesc": "Leve seu corpo além dos limites normais;\n\nSuportar um risco tóxico."
+    },
+    {
+      "title": "Intelligence",
+      "transTitle": "Intelegência",
+      "tag": "Atributo",
+      "shortDesc": "Sua raciocínio e memória",
+      "fullDesc": "Razão ou lembrar, Resista a um ataque mental;\n\nReconhecer uma ilusão como falsa."
+    },
+    {
+      "title": "Wisdom",
+      "transTitle": "Sabedoria",
+      "tag": "Atributo",
+      "shortDesc": "Sua observação e ponderaçao",
+      "fullDesc": "Observe coisas no ambiente ou no comportamento das criaturas;\n\nResista a um ataque mental."
+    },
+    {
+      "title": "Charisma",
+      "transTitle": "Carisma",
+      "tag": "Atributo",
+      "shortDesc": "Sua simpacia, beleza e persuasão",
+      "fullDesc": "Influenciar, entreter ou enganar;\n\nAfirme sua identidade."
+    },
+    
+    {
+      "title": "Action",
+      "transTitle": "Ação",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Você pode interagir com um objeto ou recurso do ambiente gratuitamente, durante seu movimento ou ação. Por exemplo, você pode abrir uma porta durante seu movimento enquanto caminha em direção a um inimigo.\n\nSe quiser interagir com um segundo objeto, você precisa realizar a ação Utilizar. Alguns itens mágicos e outros objetos especiais sempre exigem uma ação para serem usados, conforme indicado em suas descrições.\n\nO Mestre pode exigir que você use uma ação para qualquer uma dessas atividades quando ela precisar de cuidados especiais ou quando apresentar um obstáculo incomum. Por exemplo, o Mestre pode exigir que você execute a ação Utilizar para abrir uma porta emperrada ou girar uma manivela para abaixar uma ponte levadiça."
+    },
+    {
+      "title": "Bônus action",
+      "transTitle": "Ação bônus",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Vários recursos de classe, feitiços e outras habilidades permitem que você execute uma ação adicional em seu turno chamada Ação Bônus. O recurso Ação Astuta, por exemplo, permite que um Ladino realize uma Ação Bônus. Você pode realizar uma Ação Bônus somente quando uma habilidade especial, um feitiço ou outro recurso do jogo indicar que você pode fazer algo como uma Ação Bônus.\n\nCaso contrário, você não terá uma ação bônus para realizar.\n\nVocê pode realizar apenas uma Ação Bônus no seu turno, então você deve escolher qual Ação Bônus usar se tiver mais de uma disponível.\n\nVocê escolhe quando realizar uma Ação Bônus durante seu turno, a menos que o momento da Ação Bônus seja especificado.\n\nQualquer coisa que o prive de sua capacidade de realizar ações também o impede de realizar uma Ação Bônus."
+    },
+    {
+      "title": "Cover (3/4)",
+      "transTitle": "Cobertura (3/4)",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Paredes, árvores, criaturas e outros obstáculos podem fornecer cobertura, tornando o alvo mais difícil de atingir. Conforme detalhado na tabela de Cobertura, existem três graus de cobertura, cada um dos quais proporciona um benefício diferente a um alvo.\n\n+5 na CA e teste de resistência destreza.\n\nUm objeto que cubra pelo menos três quartos do alvo."
+    },
+    {
+      "title": "Cover (half)",
+      "transTitle": "Cobertura (meia)",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Paredes, árvores, criaturas e outros obstáculos podem fornecer cobertura, tornando o alvo mais difícil de atingir. Conforme detalhado na tabela de Cobertura, existem três graus de cobertura, cada um dos quais proporciona um benefício diferente a um alvo.\n\n+2 na CA e teste de resistência destreza.\n\nOutra criatura ou objeto que cubra pelo menos metade do alvo."
+    },
+    {
+      "title": "Cover total",
+      "transTitle": "Cobertura total",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Paredes, árvores, criaturas e outros obstáculos podem fornecer cobertura, tornando o alvo mais difícil de atingir. Conforme detalhado na tabela de Cobertura, existem três graus de cobertura, cada um dos quais proporciona um benefício diferente a um alvo.\n\nNão pode ser segmentado diretamente.\n\nUm objeto que cobre todo o alvo."
+    },
+    {
+      "title": "Dead",
+      "transTitle": "Morto",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Uma criatura morta não tem Pontos de Vida e não pode recuperá-los a menos que seja primeiro revivida por magia como o feitiço Raise Dead ou Revivify. Quando tal feitiço é lançado, o espírito sabe quem o está lançando e pode recusar. O espírito de uma criatura morta deixou o corpo e partiu para os Planos Exteriores,\r\ne reviver a criatura requer chamar o espírito de volta.\r\n\r\nSe a criatura retornar à vida, o efeito de renascimento determinará os Pontos de Vida atuais da criatura. Salvo indicação em contrário, a criatura retorna à vida com quaisquer condições, contágios mágicos ou maldições que a afetavam no momento da morte, se a duração desses efeitos ainda estiver em andamento.\r\nSe a criatura morreu com qualquer nível de Exaustão, ela retorna com 1 nível a menos. Se a criatura tiver sintonização com um ou mais itens mágicos, ela não estará mais sintonizada com eles."
+    },
+    {
+      "title": "Dropping prone",
+      "transTitle": "Jogar-se no chão",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "No seu turno, você pode obter a condição Caído (veja o glossário de regras) sem usar uma ação ou qualquer velocidade, mas não pode fazer isso se sua Velocidade for 0."
+    },
+    {
+      "title": "Initiative",
+      "transTitle": "Iniciativa",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "A iniciativa determina a ordem dos turnos durante o combate. Quando o combate começa, cada participante testa Iniciativa; eles fazem um teste de Destreza que determina seu lugar na ordem de Iniciativa. O Mestre rola para monstros. Para um grupo de criaturas idênticas, o Mestre faz uma única jogada, de modo que cada membro do grupo tenha a mesma Iniciativa."
+    },
+    {
+      "title": "Melee Attacks",
+      "transTitle": "Ataque corpo a corpo",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Um ataque corpo a corpo permite que você ataque um alvo ao seu alcance. Um ataque corpo a corpo normalmente usa uma arma portátil ou um Ataque Desarmado. Muitos monstros fazem ataques corpo a corpo com garras, dentes ou outras partes do corpo. Alguns feitiços também envolvem ataques corpo a corpo.\n\nAlcance: Uma criatura tem alcance de um pé e pode, portanto, atacar alvos em um raio de 1,5 metro ao fazer um ataque corpo a corpo. Certas criaturas têm ataques corpo a corpo com alcance superior a 1,5 metro, conforme observado em suas descrições.\n\nAtaques de oportunidade: Os combatentes esperam que os inimigos baixem a guarda. Se você passar descuidadamente por seus inimigos, você se coloca em perigo ao provocar um Ataque de Oportunidade.\n\nEvitando ataques de oportunidade: Você pode evitar provocar um Ataque de Oportunidade realizando a ação Desengajar. Você também não provoca um Ataque de Oportunidade quando se Teletransporta ou quando é movido sem usar seu movimento, ação, Ação Bônus ou Reação. Por exemplo, você não provoca um Ataque de Oportunidade se uma explosão o arremessar para fora do alcance de um inimigo ou se você passar por um inimigo.\n\nFazendo um ataque de oportunidade: Você pode fazer um Ataque de Oportunidade quando uma criatura que você pode ver sai do seu alcance. Para fazer o ataque,\nrealize uma Reação para realizar um ataque corpo a corpo com uma arma ou um Ataque Desarmado contra aquela criatura. O ataque ocorre logo antes de sair do seu alcance."
+    },
+    {
+      "title": "Mounted Combat",
+      "transTitle": "Combate montado",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Uma criatura voluntária que seja pelo menos um tamanho maior que um cavaleiro e que tenha uma anatomia apropriada pode servir como montaria, usando as seguintes regras.\n\nMontagem e Desmontagem: Durante seu movimento, você pode montar em uma criatura que esteja a até 1,5 metro (5 fts) de você ou desmontar. Fazer isso custa uma quantidade de movimento igual à metade do seu Deslocamento (arredondada para baixo). Por exemplo, se seu Deslocamentofor 9 metros, você gasta 4,5 metros de movimento para montar um cavalo.\n\nControlando uma montaria: Você só pode controlar uma montaria se ela tiver sido treinada para aceitar um cavaleiro. Cavalos domesticados, mulas e criaturas semelhantes recebem esse treinamento.\n\nA Iniciativa de uma montaria controlada muda para corresponder à sua quando você a monta. Ele se move no seu turno conforme você o direciona e tem apenas três opções de ação durante esse turno: Correr, Desengajar e Esquivar. Uma montaria controlada pode se mover e agir mesmo no turno em que você a monta.\n\nEm contraste, uma montaria independente – que permite montar, mas ignora seu controle – mantém seu lugar na ordem de Iniciativa e se move e age como quiser.\n\nCaindo da montaria: Se um efeito estiver prestes a mover sua montaria contra a vontade enquanto você estiver montado nela, você deve ser bem sucedido em um teste de resistência de Destreza CD 10 ou cairá, caindo na condição Caído (veja o glossário de regras) em um espaço desocupado a até 1,5 metro da montaria.\n\nEnquanto estiver montado, você deve fazer o mesmo salvamento se for derrubado ou se a montaria estiver."
+    },
+    {
+      "title": "Movimente",
+      "transTitle": "Movimento",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Uma criatura tem Velocidade, que é a distância em pés que a criatura pode percorrer quando se move em seu turno. Veja também “Escalar”, “Rastejar”, ​​“Voar”, “Saltar”, “Natação” e o capítulo 1 (“Combate”)."
+    },
+    {
+      "title": "Opportunity attacks",
+      "transTitle": "Ataque de oportunidade",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Você pode fazer um Ataque de Oportunidade quando uma criatura que você pode ver sai do seu alcance usando sua ação, sua Ação Bônus, sua Reação ou uma de suas velocidades. Para realizar o Ataque de Oportunidade, realize uma Reação para realizar um ataque corpo a corpo com uma arma ou um Ataque Desarmado contra a criatura provocadora.\r\nO ataque ocorre logo antes da criatura sair do seu alcance. Veja também o capítulo 1 (“Combate”)."
+    },
+    {
+      "title": "Ranged Attacks",
+      "transTitle": "Ataque à distância",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Quando você faz um ataque à distância, você dispara um arco, arremessa um machado ou envia projéteis para atingir um inimigo à distância. Muitos feitiços também envolvem ataques à distância.\n\nVocê pode realizar ataques à distância apenas contra alvos dentro de um alcance específico. Se um ataque à distância, como um feito com uma magia, tiver um único alcance, você não pode atacar um alvo além deste alcance. Alguns ataques à distância, como aqueles feitos com arco longo, têm dois alcances. O número menor é o intervalo normal e o número maior é o intervalo longo. Sua jogada de ataque tem Desvantagem quando seu alvo está além do alcance normal e você não pode atacar um alvo além do alcance longo.\n\nAtaques à distância em combate corpo a corpo: Mirar um ataque à distância é mais difícil quando um inimigo está próximo a você. Quando você faz uma jogada de ataque à distância com uma arma, um feitiço ou algum outro meio, você tem Desvantagem na jogada se estiver a até 1,5 metro de um inimigo que possa vê-lo e não tenha a condição Incapacitado (veja as regras glossário)."
+    },
+    {
+      "title": "Reation",
+      "transTitle": "Reação",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Uma Reação é uma ação especial realizada em resposta a um gatilho definido na descrição da Reação. Você pode realizar uma Reação no turno de outra criatura e, se fizer isso no seu turno, poderá fazê-lo mesmo que também realize uma ação, uma Ação Bônus ou ambas. Depois de realizar uma Reação, você não poderá realizar outra até o início do seu próximo turno.\n,\nO Ataque de Oportunidade é uma Reação disponível para todas as criaturas. Consulte também “Ataques de oportunidade” e capítulo 1 (“Ações”)."
+    },
+    {
+      "title": "Spell Attack",
+      "transTitle": "Ataque Mágico",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Um ataque mágico é uma jogada de ataque feita como parte de um feitiço ou outro efeito mágico. Veja também o capítulo 7 (“Lançando Feitiços”)."
+    },
+    {
+      "title": "Stunned",
+      "transTitle": "Atordoado",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Se um combatente for surpreendido ao iniciar o combate, esse combatente terá Desvantagem em seu teste de Iniciativa. Por exemplo, se um emboscador inicia o combate enquanto está escondido de um inimigo que não sabe que o combate está começando, esse inimigo fica surpreso."
+    },
+    {
+      "title": "Underwater Combat",
+      "transTitle": "Combate Subaquático",
+      "tag": "Combate",
+      "shortDesc": "",
+      "fullDesc": "Uma luta debaixo d'água segue estas regras.\n\nArmas Impedidas: Ao fazer uma jogada de ataque corpo a corpo com uma arma debaixo d'água, uma criatura que não tenha Velocidade de Natação terá Desvantagem na jogada de ataque, a menos que a arma cause dano Perfurante.\n\nUma jogada de ataque à distância com uma arma debaixo d'água erra automaticamente um alvo além do alcance normal da arma, e a jogada de ataque tem Desvantagem contra um alvo dentro do alcance normal.\n\nResistência ao fogo: Qualquer coisa debaixo d'água tem Resistência ao dano de Fogo (explicado em “Dano e Cura”)."
+    },
+    
+    {
+      "title": "Blinded",
+      "transTitle": "Cego",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Não consigo ver. Você não pode ver e falha automaticamente em qualquer teste de habilidade que exija visão.\n\nAtaques afetados: As jogadas de ataque contra você têm Vantagem e suas jogadas de ataque têm Desvantagem."
+    },
+    {
+      "title": "Burning",
+      "transTitle": "Queimando",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Uma criatura ou objeto em chamas sofre 1d4 de dano de Fogo no início de cada um de seus turnos. Como uma ação, você pode extinguir o fogo em si mesmo colocando-se na condição Caído e rolando no chão. O fogo também se apaga se for apagado, submerso ou sufocado."
+    },
+    {
+      "title": "Charmed",
+      "transTitle": "Encantado",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Não posso prejudicar o encantador. Você não pode atacar o encantador ou atingi-lo com habilidades prejudiciais ou efeitos mágicos.\nVantagem Social. \n\nO encantador tem Vantagem em qualquer teste de habilidade para interagir socialmente com você."
+    },
+    {
+      "title": "Deafened",
+      "transTitle": "Sudo",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Não consigo ouvir. Você não pode ouvir e falha automaticamente em qualquer teste de habilidade que exija audição."
+    },
+    {
+      "title": "Dehydration",
+      "transTitle": "Desidratação",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Uma criatura requer uma quantidade de água por dia com base em seu tamanho, conforme mostrado na tabela Necessidades de Água por Dia. Uma criatura que bebe menos da metade da água necessária para um dia ganha 1 nível de Exaustão no final do dia. A exaustão causada pela desidratação não pode ser removida até que a criatura beba a quantidade total de água necessária para um dia. Veja também “Exaustão”."
+    },
+    {
+      "title": "Exhaustion",
+      "transTitle": "Exausto",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Níveis de exaustão. Esta condição é cumulativa. Cada vez que você o recebe, você ganha 1 nível de Exaustão. Você morre se seu nível de exaustão for 6.\n\nTestes D20 afetados. Quando você faz um Teste D20, o teste é reduzido em 2 por nível de Exaustão.\n\nDeslocamento reduzido: Seu Deslocamento é reduzido em 1,5 metros (5 pés) por nível de Exaustão.\n\nRemovendo níveis de exaustão: Terminar um descanso longo remove 1 dos seus níveis de exaustão. Quando seu nível de Exaustão chega a 0, a condição termina."
+    },
+    {
+      "title": "Falling",
+      "transTitle": "Queda",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Uma criatura que caia sofre 1d6 de dano de concussão no final da queda para cada 3 metros que caiu, até um máximo de 20d6. Quando a criatura pousa, ela fica caída, a menos que evite sofrer qualquer dano da queda.\n\nUma criatura que cai na água ou em outro líquido pode usar sua Reação para fazer um teste de Força (Atletismo) ou Destreza (Acrobacia) CD 15 para atingir a superfície com a cabeça ou os pés primeiro. Se obtiver sucesso no teste, qualquer dano resultante da queda é reduzido pela metade."
+    },
+    {
+      "title": "Falling Unconscious",
+      "transTitle": "Morrendo",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Se você atingir 0 Pontos de Vida e não morrer instantaneamente, você terá a condição Inconsciente (veja o glossário de regras) até recuperar quaisquer Pontos de Vida, e agora você terá que fazer Testes de Resistência contra a Morte (veja abaixo).\n\nSempre que você começar seu turno com 0 Pontos de Vida, você deve fazer um Teste de Resistência à Morte para determinar se você se aproxima da morte ou se agarra à vida. Ao contrário de outros testes de resistência, este não está vinculado a um valor de habilidade. Você está nas mãos do destino agora.\n\nTrês sucessos/fracassos. Role 1d20. Se o resultado for 10 ou mais, você teve sucesso\n. Caso contrário, você falha. Um sucesso ou fracasso não tem efeito por si só. No seu terceiro sucesso, você se torna Estável (veja “Estabilizando um Personagem” abaixo). Na sua terceira falha, você morre.\n\nOs sucessos e fracassos não precisam ser consecutivos; acompanhe ambos até coletar uma trinca.\n\nO número de ambos é zerado quando você recupera quaisquer Pontos de Vida ou se torna Estável.\n\nRolando 1 ou 20. Quando você rola 1 no d20 para um teste de resistência contra a morte, você sofre duas falhas. Se você tirar 20 no d20, você recupera 1 Ponto de Vida.\n\nDano em 0 pontos de vida. Se você sofrer algum dano enquanto tiver 0 Pontos de Vida, você sofre uma falha no Teste de Resistência à Morte. Se o dano for de um Acerto Crítico, você sofre duas falhas. Se o dano for igual ou superior ao seu Ponto de Vida máximo, você morre."
+    },
+    {
+      "title": "Frightened",
+      "transTitle": "Amendrontado",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Testes de habilidade e ataques afetados. Você tem Desvantagem em testes de habilidade e jogadas de ataque enquanto a fonte do medo estiver dentro da linha de visão.\n\nNão consigo me aproximar. Você não pode se aproximar voluntariamente da fonte do medo."
+    },
+    {
+      "title": "Grappled",
+      "transTitle": "Agarrado",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Deslocamento 0: Sua deslocamento é 0 e não pode aumentar.\n\nAtaques afetados: Você tem Desvantagem nas jogadas de ataque contra qualquer alvo que não seja o agarrador.\n\nMobilidade: O Agarrador pode arrastar ou carregar você quando se move, mas cada metro de movimento custa 1 deslocamento extra, a menos que você seja Miúdo ou dois ou mais tamanhos menor que ele."
+    },
+    {
+      "title": "Grappling",
+      "transTitle": "Agarrar",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Uma criatura pode agarrar outra criatura. Personagens normalmente agarram usando um Ataque Desarmado. Muitos monstros têm ataques especiais que permitem que eles agarrem rapidamente uma presa. Não importa como um agarrão seja iniciado, ele segue estas regras. Veja também “Ataque Desarmado” e “Agarrado”.\n\nCondição Agarrado: Agarrar uma criatura com sucesso dá a ela a condição Agarrado.\n\nUm Agarrar por Mão: Uma criatura deve ter uma mão livre para agarrar outra criatura. Alguns blocos de estatísticas e efeitos de jogo permitem que uma criatura agarre usando um tentáculo, uma mandíbula ou outra parte do corpo. Qualquer que seja a parte que um agarrão use, ele pode agarrar apenas uma criatura por vez com aquela parte, e o agarrão não pode usar aquela parte para mirar em outra criatura a menos que termine o agarrão.\n\nEscapar de um Agarrar: Uma criatura Agarrada pode usar sua ação para fazer um teste de Força (Atletismo) ou Destreza (Acrobacia) contra a CD de fuga do agarrão, terminando a condição em si mesma em um sucesso. A condição também termina se o lutador tiver a condição Incapacitado ou se a distância entre o alvo Agarrado e o lutador exceder o alcance do agarramento."
+    },
+    {
+      "title": "Immunity",
+      "transTitle": "Imunidade",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Se você tiver imunidade a um tipo de dano ou condição, isso não afetará você de forma alguma."
+    },
+    {
+      "title": "Incapacitated",
+      "transTitle": "Incapacitado",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Enquanto você tem a condição Incapacitado, você experimenta os seguintes efeitos.\n\nInativo: Você não pode realizar nenhuma Ação, Ação Bônus ou Reação.\n\nSem Concentração: Sua Concentração está quebrada.\n\nSem Palavras: Você não pode falar.\n\nSurpreso: Se você estiver Incapacitado quando rolar Iniciativa, você tem Desvantagem na rolagem."
+    },
+    {
+      "title": "Invisible",
+      "transTitle": "Invisível",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Enquanto você tem a condição Invisível, você experimenta os seguintes efeitos.\n\nSurpresa: Se você estiver Invisível quando rolar Iniciativa, você tem Vantagem na rolagem.\n\nOculto: Você não é afetado por nenhum efeito que exija que seu alvo seja visto, a menos que o criador do efeito possa de alguma forma vê-lo. Qualquer equipamento que você esteja vestindo ou carregando também é oculto.\n\nAtaques Afetados: Rolagens de ataque contra você têm Desvantagem, e suas rolagens de ataque têm Vantagem. Se uma criatura puder de alguma forma vê-lo, você não ganha este benefício contra aquela criatura."
+    },
+    {
+      "title": "Malnutrition",
+      "transTitle": "Denutrição",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Uma criatura precisa de uma quantidade de comida por dia com base em seu tamanho, conforme mostrado na tabela Food Needs per Day. Uma criatura que come, mas consome menos da metade da comida necessária para um dia deve ser bem-sucedida em um teste de resistência de Constituição CD 10 ou ganhar 1 nível de Exaustão no final do dia. Uma criatura que não come nada por 5 dias ganha automaticamente 1 nível de Exaustão no final do quinto dia, bem como um nível adicional no final de cada dia subsequente sem comida.\nA exaustão causada pela desnutrição não pode ser removida até que a criatura coma a quantidade total de comida necessária para um dia. Veja também “Exaustão”."
+    },
+    {
+      "title": "Paralyzed",
+      "transTitle": "Paralisado",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Enquanto você tem a condição Paralisado, você experimenta os seguintes efeitos.\n\nIncapacitado: Você tem a condição Incapacitado.\n\nDeslocamento: Seu Deslocamento é 0 e não pode aumentar.\n\nTestes de Resistência Afetados: Você falha automaticamente em testes de resistência de Força e Destreza.\n\nAtaques Afetados: Rolagens de ataque contra você têm Vantagem.\n\nAcertos Críticos Automáticos: Qualquer teste de ataque que acerte você é um Acerto Crítico se o atacante estiver a até 1,5 m de você."
+    },
+    {
+      "title": "Petrified",
+      "transTitle": "Petrificado",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Enquanto você tem a condição Petrificado, você experimenta os seguintes efeitos.\n\nTransformado em Substância Inanimada: Você é transformado, junto com quaisquer objetos não mágicos que você esteja vestindo e carregando, em uma substância sólida inanimada (geralmente pedra). Seu peso aumenta por um fator de dez, e você para de envelhecer.\n\nIncapacitado: Você tem a condição Incapacitado.\n\nDeslocamento: Seu Deslocamento é 0 e não pode aumentar.\n\nAtaques Afetados: Rolagens de ataque contra você têm Vantagem.\n\nTestes de Resistência Afetados: Você falha automaticamente em testes de resistência de Força e Destreza.\n\nResistir a Dano: Você tem Resistência a todos os danos.\n\nImunidade a Veneno: Você tem Imunidade à condição Envenenado."
+    },
+    {
+      "title": "Poisoned",
+      "transTitle": "Envenenado",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Enquanto estiver na condição Envenenado, você experimentará o seguinte efeito.\n\nTestes de habilidade e ataques afetados. Você tem Desvantagem em jogadas de ataque e testes de habilidade."
+    },
+    {
+      "title": "Prone",
+      "transTitle": "Caído",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Enquanto estiver na condição Propenso, você sentirá os seguintes efeitos.\n\nMovimento restrito: Suas únicas opções de movimento são rastejar ou gastar uma quantidade de movimento igual à metade de sua Velocidade (arredondada para baixo) para se endireitar e, assim, encerrar a condição. Se sua velocidade for 0, você não conseguirá se endireitar.\n\nAtaques afetados: Você tem Desvantagem nas jogadas de ataque. Uma jogada de ataque contra você tem Vantagem se o atacante estiver a até 1,5 metro de você. Caso contrário, a jogada de ataque terá Desvantagem."
+    },
+    {
+      "title": "Resistence",
+      "transTitle": "Resistância",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Se você tiver Resistência a um tipo de dano, o dano desse tipo será reduzido pela metade contra você (arredondado para baixo). A resistência é aplicada apenas uma vez a uma ocorrência de dano. Veja também o capítulo 1 (“Dano e Cura”)."
+    },
+    {
+      "title": "Restrained",
+      "transTitle": "Restringido",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Enquanto estiver na condição Restringido, você experimentará os seguintes efeitos.\n\nDeslocamento: Seu Deslocamento é 0 e não pode aumentar.\n\nAtaques afetados: As jogadas de ataque contra você têm Vantagem e suas jogadas de ataque têm Desvantagem.\n\nTestes de resistência afetados: Você tem Desvantagem em testes de resistência de Destreza."
+    },
+    {
+      "title": "Stunned",
+      "transTitle": "Atordoado",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Enquanto estiver na condição Atordoado, você experimentará os seguintes efeitos.\n\nIncapacitado: Você tem a condição Incapacitado.\n\nTestes de resistência afetados: Você falha automaticamente nos testes de resistência de Força e Destreza.\n\nAtaques afetados: As jogadas de ataque contra você têm Vantagem."
+    },
+    {
+      "title": "Suffocation",
+      "transTitle": "Asfixia",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Uma criatura precisa de uma quantidade de comida por dia com base em seu tamanho, conforme mostrado na tabela Food Needs per Day. Uma criatura que come, mas consome menos da metade da comida necessária para um dia deve ser bem-sucedida em um teste de resistência de Constituição CD 10 ou ganhar 1 nível de Exaustão no final do dia. Uma criatura que não come nada por 5 dias ganha automaticamente 1 nível de Exaustão no final do quinto dia, bem como um nível adicional no final de cada dia subsequente sem comida.\n\nA exaustão causada pela desnutrição não pode ser removida até que a criatura coma a quantidade total de comida necessária para um dia. Veja também “Exaustão”."
+    },
+    {
+      "title": "Surprise",
+      "transTitle": "Surpresa",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Se uma criatura for pega de surpresa no início do combate, ela será surpreendida, o que faz com que ela tenha Desvantagem em seu teste de Iniciativa."
+    },
+    {
+      "title": "Unconscious",
+      "transTitle": "Inconsciente",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Enquanto você estiver na condição Inconsciente, você experimentará os seguintes efeitos.\n\nInerte: Você tem as condições Incapacitado e Propenso e deixa cair tudo o que estiver segurando. Quando esta condição termina, você permanece propenso.\n\nDeslocamento: Seu Deslocamento é 0 e não pode aumentar.\n\nAtaques afetados: As jogadas de ataque contra você têm Vantagem.\n\nTestes de resistência afetados: Você falha automaticamente nos testes de resistência de Força e Destreza.\n\nAcertos Críticos Automáticos: Qualquer jogada de ataque que atingir você será um Acerto Crítico se o atacante estiver a até 1,5 metro de você.\n\nInconsciente: Você não tem consciência do que está ao seu redor."
+    },
+    {
+      "title": "Vulnerability",
+      "transTitle": "Vulnerabilidade",
+      "tag": "Condição",
+      "shortDesc": "",
+      "fullDesc": "Se você tiver Vulnerabilidade a um tipo de dano, o dano desse tipo será dobrado contra você. Se você tiver Vulnerabilidade a dano de Fogo, esse dano será dobrado contra você."
+    },
+    {
+      "title": "Cleave",
+      "transTitle": "Dividir",
+      "tag": "Maestria em Arma",
+      "shortDesc": "",
+      "fullDesc": "Se você acertar uma criatura com uma jogada de ataque corpo a corpo usando esta arma, você pode fazer uma jogada de ataque corpo a corpo com a arma contra uma segunda criatura a até 1,5 metros (5 Pés) da primeira que também esteja ao seu alcance. Em um acerto, a segunda criatura sofre o dano da arma, mas não adicione seu modificador de habilidade a esse dano, a menos que esse modificador seja negativo. Você pode fazer esse ataque extra apenas uma vez por turno."
+    },
+    {
+      "title": "Graze",
+      "transTitle": "Raspar",
+      "tag": "Maestria em Arma",
+      "shortDesc": "",
+      "fullDesc": "Se sua jogada de ataque com esta arma errar uma criatura, você pode causar dano àquela criatura igual ao modificador de habilidade que você usou para fazer a jogada de ataque. Este dano é do mesmo tipo causado pela arma, e o dano pode ser aumentado apenas aumentando o modificador de habilidade."
+    },
+    {
+      "title": "Nick",
+      "transTitle": "Agilizar",
+      "tag": "Maestria em Arma",
+      "shortDesc": "",
+      "fullDesc": "Quando você faz o ataque extra da propriedade Leve, você pode fazê-lo como parte da ação Ataque em vez de como uma Ação Bônus. Você pode fazer esse ataque extra apenas uma vez por turno."
+    },
+    {
+      "title": "Push",
+      "transTitle": "Empurrar",
+      "tag": "Maestria em Arma",
+      "shortDesc": "",
+      "fullDesc": "Se você atingir uma criatura com esta arma, você pode empurrá-la até 3 metros (10 pés) para longe de você, se ela for Grande ou menor."
+    },
+    {
+      "title": "Sap",
+      "transTitle": "Enfraquecer",
+      "tag": "Maestria em Arma",
+      "shortDesc": "",
+      "fullDesc": "Se você atingir uma criatura com esta arma, essa criatura terá Desvantagem em sua próxima jogada de ataque antes do início do seu próximo turno."
+    },
+    {
+      "title": "Slow",
+      "transTitle": "Retardar",
+      "tag": "Maestria em Arma",
+      "shortDesc": "",
+      "fullDesc": "Se você atingir uma criatura com esta arma e causar dano a ela, você pode reduzir seu Deslocamento em 3 metros (10 pés) até o início do seu próximo turno. Se a criatura for atingida mais de uma vez por armas que tenham esta propriedade, a redução de Deslocameno não excede 3 metros (10 pés)."
+    },
+    {
+      "title": "Topple",
+      "transTitle": "Derrubar",
+      "tag": "Maestria em Arma",
+      "shortDesc": "",
+      "fullDesc": "Se você atingir uma criatura com esta arma, você pode forçar a criatura a fazer um teste de resistência de Constituição (CD 8 mais o modificador de habilidade usado para fazer a jogada de ataque e seu Bônus de Proficiência). Em um teste de resistência falho, a criatura tem a condição Caído."
+    },
+    {
+      "title": "Vex",
+      "transTitle": "Debilitar",
+      "tag": "Maestria em Arma",
+      "shortDesc": "",
+      "fullDesc": "Se você atingir uma criatura com esta arma e causar dano à criatura, você tem Vantagem na sua próxima jogada de ataque contra aquela criatura antes do final do seu próximo turno."
+    },
+    
+    {
+      "title": "Climbing",
+      "transTitle": "Escalando",
+      "tag": "Movimentação",
+      "shortDesc": "",
+      "fullDesc": "Enquanto você está escalando, cada metro de movimento custa 1 pé extra (2 pés extras em Terreno Difícil). Você ignora esse custo extra se tiver Velocidade de Subida e a usa para escalar.\nA critério do Mestre, escalar uma superfície escorregadia ou com poucos apoios para as mãos pode exigir um teste bem-sucedido de Força (Atletismo) CD 15."
+    },
+    {
+      "title": "Crawing",
+      "transTitle": "Rastejando",
+      "tag": "Movimentação",
+      "shortDesc": "",
+      "fullDesc": "Enquanto você rasteja, cada metro de movimento custa 1 metro extra (2 pés extras em Terreno Difícil). Consulte também “Velocidade”."
+    },
+    {
+      "title": "Difficult Terrain",
+      "transTitle": "Terreno Difícil",
+      "tag": "Movimentação",
+      "shortDesc": "",
+      "fullDesc": "Os combatentes costumam ser retardados por terrenos difíceis. Móveis baixos, entulho, vegetação rasteira, escadas íngremes, neve e pântanos rasos são exemplos de Terreno Difícil. Cada metro de movimento em Terreno Difícil custa 1 metro extra, mesmo que várias coisas em um espaço contem como Terreno Difícil.\n\nUm espaço é considerado Terreno Difícil se contiver qualquer um dos seguintes itens ou algo semelhante:\n\n> Uma criatura que não seja Tiny ou seu aliado\n> Móveis dimensionados para criaturas do seu tamanho ou maiores\n> Neve pesada, gelo, escombros ou vegetação rasteira\n> Líquido que fica entre a canela e a cintura\n> Uma abertura estreita dimensionada para uma criatura um tamanho menor que você\n> Uma inclinação de 20 graus ou mais"
+    },
+    {
+      "title": "Flying",
+      "transTitle": "Voando",
+      "tag": "Movimentação",
+      "shortDesc": "",
+      "fullDesc": "Uma variedade de efeitos permite que uma criatura voe. Enquanto voa, você cai se estiver na condição Incapacitado ou Pronado ou se sua Velocidade de Voo for reduzida a 0. Você pode permanecer no ar nessas circunstâncias se puder pairar. Veja também “Queda” e “Velocidade de voo”."
+    },
+    {
+      "title": "Interacting with Objects",
+      "transTitle": "Interagindo com Objetos",
+      "tag": "Movimentação",
+      "shortDesc": "",
+      "fullDesc": ""
+    },
+    {
+      "title": "Jumping",
+      "transTitle": "Saltando",
+      "tag": "Movimentação",
+      "shortDesc": "",
+      "fullDesc": "Ao saltar, você realiza um salto em distância (horizontal) ou um salto em altura (vertical). Veja também “Salto em distância” e “Salto em altura”."
+    },
+    {
+      "title": "Mounting and Dismounting",
+      "transTitle": "Montagem e Desmontagem",
+      "tag": "Movimentação",
+      "shortDesc": "Uma criatura voluntária que seja pelo menos um tamanho maior que um cavaleiro e que tenha uma anatomia apropriada pode servir como montaria, usando as seguintes regras.",
+      "fullDesc": "Durante seu movimento, você pode montar em uma criatura que esteja a até 1,5 metro de você ou desmontar. Fazer isso custa uma quantidade de movimento igual à metade da sua Velocidade (arredondada para baixo). Por exemplo, se sua Velocidade for 9 metros, você gasta 4,5 metros de movimento para montar um cavalo."
+    },
+    {
+      "title": "Swimming",
+      "transTitle": "Natando",
+      "tag": "Movimentação",
+      "shortDesc": "",
+      "fullDesc": "Enquanto você está nadando, cada metro de movimento custa 1 pé extra (2 pés extras em Terreno Difícil). Você ignora esse custo extra se tiver Velocidade de Natação e usá-la para nadar. A critério do Mestre, mover-se qualquer distância em águas agitadas pode exigir um teste bem-sucedido de Força (Atletismo) CD 15."
+    },
+    
+    {
+      "title": "Acrobatics",
+      "transTitle": "Acrobacia",
+      "tag": "Perícia",
+      "shortDesc": "DEX",
+      "fullDesc": "Fique de pé em uma situação complicada ou faça uma acrobacia."
+    },
+    {
+      "title": "Animal Handling",
+      "transTitle": "Adestrar animais",
+      "tag": "Perícia",
+      "shortDesc": "WIS",
+      "fullDesc": "Acalme ou treine um animal, ou faça com que ele se comporte de determinada maneira."
+    },
+    {
+      "title": "Arcana",
+      "transTitle": "Arcano",
+      "tag": "Perícia",
+      "shortDesc": "INT",
+      "fullDesc": "Lembre-se da tradição sobre feitiços, itens mágicos e planos de existência."
+    },
+    {
+      "title": "Athetics",
+      "transTitle": "Atletismo",
+      "tag": "Perícia",
+      "shortDesc": "STR",
+      "fullDesc": "Salte mais longe do que o normal, fique flutuando em águas agitadas ou quebre alguma coisa."
+    },
+    {
+      "title": "Performance",
+      "transTitle": "Atuação",
+      "tag": "Perícia",
+      "shortDesc": "CHA",
+      "fullDesc": "Aja, conte uma história, apresente música ou dance."
+    },
+    {
+      "title": "Deception",
+      "transTitle": "Enganação",
+      "tag": "Perícia",
+      "shortDesc": "CHA",
+      "fullDesc": "Conte uma mentira convincente ou use um disfarce de forma convincente."
+    },
+    {
+      "title": "Stealth",
+      "transTitle": "Esconder-se",
+      "tag": "Perícia",
+      "shortDesc": "DEX",
+      "fullDesc": "Fuja da atenção movendo-se silenciosamente e escondendo-se atrás das coisas."
+    },
+    {
+      "title": "History",
+      "transTitle": "História",
+      "tag": "Perícia",
+      "shortDesc": "INT",
+      "fullDesc": "Lembre-se da tradição sobre eventos históricos, pessoas, nações e culturas."
+    },
+    {
+      "title": "Intimidation",
+      "transTitle": "Intimidação",
+      "tag": "Perícia",
+      "shortDesc": "CHA",
+      "fullDesc": "Admirar ou ameaçar alguém para fazer o que você quer."
+    },
+    {
+      "title": "Insight",
+      "transTitle": "Intuição",
+      "tag": "Perícia",
+      "shortDesc": "WIS",
+      "fullDesc": "Discernir o humor e as intenções de uma pessoa."
+    },
+    {
+      "title": "Investigation",
+      "transTitle": "Investigação",
+      "tag": "Perícia",
+      "shortDesc": "INT",
+      "fullDesc": "Encontre informações obscuras em livros ou deduza como algo funciona."
+    },
+    {
+      "title": "Medicine",
+      "transTitle": "Medicina",
+      "tag": "Perícia",
+      "shortDesc": "WIS",
+      "fullDesc": "Diagnosticar uma doença ou determinar o que matou os recentemente assassinados."
+    },
+    {
+      "title": "Nature",
+      "transTitle": "Natureza",
+      "tag": "Perícia",
+      "shortDesc": "INT",
+      "fullDesc": "Lembre-se de conhecimentos sobre terreno, plantas, animais e clima."
+    },
+    {
+      "title": "Perception",
+      "transTitle": "Percepção",
+      "tag": "Perícia",
+      "shortDesc": "WIS",
+      "fullDesc": "Usando uma combinação de sentidos, observe algo que é fácil de perder."
+    },
+    {
+      "title": "Persuasion",
+      "transTitle": "Persuasão",
+      "tag": "Perícia",
+      "shortDesc": "CHA",
+      "fullDesc": "Convencer alguém de algo de maneira honesta e graciosa."
+    },
+    {
+      "title": "Sleight of Hand",
+      "transTitle": "Prestidigitação",
+      "tag": "Perícia",
+      "shortDesc": "DEX",
+      "fullDesc": "Escolha um bolso, esconda um objeto portátil ou faça prestidigitação."
+    },
+    {
+      "title": "Religion",
+      "transTitle": "Religião",
+      "tag": "Perícia",
+      "shortDesc": "INT",
+      "fullDesc": "Lembre-se da tradição sobre deuses, rituais religiosos e símbolos sagrados."
+    },
+    {
+      "title": "Survival",
+      "transTitle": "Sobrevivência",
+      "tag": "Perícia",
+      "shortDesc": "WIS",
+      "fullDesc": "Siga trilhas, procure alimentos, encontre uma trilha ou evite perigos naturais."
+    },
+    
+    {
+      "title": "Ammunition",
+      "transTitle": "Munição",
+      "tag": "Propriedade das Armas",
+      "shortDesc": "",
+      "fullDesc": "Você pode usar uma arma que tenha a propriedade Munição para fazer um ataque à distância somente se tiver munição para disparar dela. O tipo de munição necessária é especificado com o alcance da arma. Cada ataque gasta uma peça de munição. Sacar a munição faz parte do ataque (você precisa de uma mão livre para carregar uma arma de uma mão). Após uma luta, você pode gastar 1 minuto para recuperar metade da munição (arredondada para baixo) que usou na luta; o resto é perdido."
+    },
+    {
+      "title": "Finesse",
+      "transTitle": "Acuidade",
+      "tag": "Propriedade das Armas",
+      "shortDesc": "",
+      "fullDesc": "Ao fazer um ataque com uma arma Acuidade, use sua escolha de modificador de Força ou Destreza para as jogadas de ataque e dano. Você deve usar o mesmo modificador para ambas as jogadas."
+    },
+    {
+      "title": "Heavy",
+      "transTitle": "Pesado",
+      "tag": "Propriedade das Armas",
+      "shortDesc": "",
+      "fullDesc": "Você tem Desvantagem em jogadas de ataque com uma arma Pesada se for uma arma corpo a corpo e seu valor de Força não for pelo menos 13 ou se for uma arma de longo alcance e seu valor de Destreza não for pelo menos 13."
+    },
+    {
+      "title": "Improvised Weapons",
+      "transTitle": "Armas Improvisadas",
+      "tag": "Propriedade das Armas",
+      "shortDesc": "",
+      "fullDesc": "Se você usar um objeto — como uma perna de mesa, frigideira ou garrafa — como uma arma improvisada, veja “Armas Improvisadas” no glossário de regras. Veja também essas regras se você empunhar uma arma de forma incomum, como usar uma arma de longo alcance para fazer um ataque corpo a corpo."
+    },
+    {
+      "title": "Light",
+      "transTitle": "Leve",
+      "tag": "Propriedade das Armas",
+      "shortDesc": "",
+      "fullDesc": "Quando você realiza a ação de Ataque no seu turno e ataca com uma arma Leve, você pode fazer um ataque extra como uma Ação Bônus mais tarde no mesmo turno. Esse ataque extra deve ser feito com uma arma Leve diferente, e você não adiciona seu modificador de habilidade ao dano do ataque extra, a menos que esse modificador seja negativo. Por exemplo, você pode atacar com uma Espada Curta em uma mão e uma Adaga na outra usando a ação de Ataque e uma Ação Bônus, mas você não adiciona seu modificador de Força ou Destreza à jogada de dano da Ação Bônus, a menos que esse modificador seja negativo."
+    },
+    {
+      "title": "Loading",
+      "transTitle": "Recargar",
+      "tag": "Propriedade das Armas",
+      "shortDesc": "",
+      "fullDesc": "Você pode disparar apenas uma munição de uma arma de Recargar quando usa uma ação, uma Ação Bônus ou uma Reação para dispará-la, independentemente do número de ataques que você normalmente pode fazer."
+    },
+    {
+      "title": "Range",
+      "transTitle": "Alcance",
+      "tag": "Propriedade das Armas",
+      "shortDesc": "",
+      "fullDesc": "Uma arma de Distância tem um alcance entre parênteses após a propriedade Munição ou Arremesso. O alcance lista dois números. O primeiro é o alcance normal da arma em pés, e o segundo é o longo alcance da arma. Ao atacar um alvo além do alcance normal, você tem Desvantagem na jogada de ataque. Você não pode atacar um alvo além do longo alcance."
+    },
+    {
+      "title": "Reach",
+      "transTitle": "Haste",
+      "tag": "Propriedade das Armas",
+      "shortDesc": "",
+      "fullDesc": "Uma arma de haste adiciona 1,5 metros ao seu alcance quando você ataca com ela, bem como ao determinar seu alcance para Ataques de Oportunidade com ela."
+    },
+    {
+      "title": "Thrown",
+      "transTitle": "Arremessado",
+      "tag": "Propriedade das Armas",
+      "shortDesc": "",
+      "fullDesc": "Se uma arma tiver a propriedade Arremessado, você pode arremessar a arma para fazer um ataque à distância, e pode sacar essa arma como parte do ataque. Se a arma for uma arma corpo a corpo, use o mesmo modificador de habilidade para as jogadas de ataque e dano que você usa para um ataque corpo a corpo com essa arma."
+    },
+    {
+      "title": "Two-Handed",
+      "transTitle": "Duas mãos",
+      "tag": "Propriedade das Armas",
+      "shortDesc": "",
+      "fullDesc": "Uma arma de duas mãos requer duas mãos quando você ataca com ela."
+    },
+    {
+      "title": "Versatile",
+      "transTitle": "Versátil",
+      "tag": "Propriedade das Armas",
+      "shortDesc": "",
+      "fullDesc": "Uma arma versátil pode ser usada com uma ou duas mãos. Um valor de dano entre parênteses aparece com a propriedade. A arma causa esse dano quando usada com as duas mãos para fazer um ataque corpo a corpo."
+    }
   
-  {
-    "title": "Strength",
-    "transTitle": "Força",
-    "tag": "Atributo",
-    "shortDesc": "Seu poder muscular",
-    "fullDesc": "Levantar, empurrar, puxar ou quebrar algo;\n\nResistir fisicamente à força direta."
-  },
-  {
-    "title": "Dexterity",
-    "transTitle": "Destreza",
-    "tag": "Atributo",
-    "shortDesc": "Sua agilidade e reflexos",
-    "fullDesc": "Mova-se com agilidade, rapidez ou silêncio;\n\nDesvie do perigo."
-  },
-  {
-    "title": "Constitution",
-    "transTitle": "Constituição",
-    "tag": "Atributo",
-    "shortDesc": "Sua saúde e vigor",
-    "fullDesc": "Leve seu corpo além dos limites normais;\n\nSuportar um risco tóxico."
-  },
-  {
-    "title": "Intelligence",
-    "transTitle": "Intelegência",
-    "tag": "Atributo",
-    "shortDesc": "Sua raciocínio e memória",
-    "fullDesc": "Razão ou lembrar, Resista a um ataque mental;\n\nReconhecer uma ilusão como falsa."
-  },
-  {
-    "title": "Wisdom",
-    "transTitle": "Sabedoria",
-    "tag": "Atributo",
-    "shortDesc": "Sua observação e ponderaçao",
-    "fullDesc": "Observe coisas no ambiente ou no comportamento das criaturas;\n\nResista a um ataque mental."
-  },
-  {
-    "title": "Charisma",
-    "transTitle": "Carisma",
-    "tag": "Atributo",
-    "shortDesc": "Sua simpacia, beleza e persuasão",
-    "fullDesc": "Influenciar, entreter ou enganar;\n\nAfirme sua identidade."
-  },
-  
-  {
-    "title": "Action",
-    "transTitle": "Ação",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Você pode interagir com um objeto ou recurso do ambiente gratuitamente, durante seu movimento ou ação. Por exemplo, você pode abrir uma porta durante seu movimento enquanto caminha em direção a um inimigo.\n\nSe quiser interagir com um segundo objeto, você precisa realizar a ação Utilizar. Alguns itens mágicos e outros objetos especiais sempre exigem uma ação para serem usados, conforme indicado em suas descrições.\n\nO Mestre pode exigir que você use uma ação para qualquer uma dessas atividades quando ela precisar de cuidados especiais ou quando apresentar um obstáculo incomum. Por exemplo, o Mestre pode exigir que você execute a ação Utilizar para abrir uma porta emperrada ou girar uma manivela para abaixar uma ponte levadiça."
-  },
-  {
-    "title": "Bônus action",
-    "transTitle": "Ação bônus",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Vários recursos de classe, feitiços e outras habilidades permitem que você execute uma ação adicional em seu turno chamada Ação Bônus. O recurso Ação Astuta, por exemplo, permite que um Ladino realize uma Ação Bônus. Você pode realizar uma Ação Bônus somente quando uma habilidade especial, um feitiço ou outro recurso do jogo indicar que você pode fazer algo como uma Ação Bônus.\n\nCaso contrário, você não terá uma ação bônus para realizar.\n\nVocê pode realizar apenas uma Ação Bônus no seu turno, então você deve escolher qual Ação Bônus usar se tiver mais de uma disponível.\n\nVocê escolhe quando realizar uma Ação Bônus durante seu turno, a menos que o momento da Ação Bônus seja especificado.\n\nQualquer coisa que o prive de sua capacidade de realizar ações também o impede de realizar uma Ação Bônus."
-  },
-  {
-    "title": "Cover (3/4)",
-    "transTitle": "Cobertura (3/4)",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Paredes, árvores, criaturas e outros obstáculos podem fornecer cobertura, tornando o alvo mais difícil de atingir. Conforme detalhado na tabela de Cobertura, existem três graus de cobertura, cada um dos quais proporciona um benefício diferente a um alvo.\n\n+5 na CA e teste de resistência destreza.\n\nUm objeto que cubra pelo menos três quartos do alvo."
-  },
-  {
-    "title": "Cover (half)",
-    "transTitle": "Cobertura (meia)",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Paredes, árvores, criaturas e outros obstáculos podem fornecer cobertura, tornando o alvo mais difícil de atingir. Conforme detalhado na tabela de Cobertura, existem três graus de cobertura, cada um dos quais proporciona um benefício diferente a um alvo.\n\n+2 na CA e teste de resistência destreza.\n\nOutra criatura ou objeto que cubra pelo menos metade do alvo."
-  },
-  {
-    "title": "Cover total",
-    "transTitle": "Cobertura total",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Paredes, árvores, criaturas e outros obstáculos podem fornecer cobertura, tornando o alvo mais difícil de atingir. Conforme detalhado na tabela de Cobertura, existem três graus de cobertura, cada um dos quais proporciona um benefício diferente a um alvo.\n\nNão pode ser segmentado diretamente.\n\nUm objeto que cobre todo o alvo."
-  },
-  {
-    "title": "Dead",
-    "transTitle": "Morto",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Uma criatura morta não tem Pontos de Vida e não pode recuperá-los a menos que seja primeiro revivida por magia como o feitiço Raise Dead ou Revivify. Quando tal feitiço é lançado, o espírito sabe quem o está lançando e pode recusar. O espírito de uma criatura morta deixou o corpo e partiu para os Planos Exteriores,\r\ne reviver a criatura requer chamar o espírito de volta.\r\n\r\nSe a criatura retornar à vida, o efeito de renascimento determinará os Pontos de Vida atuais da criatura. Salvo indicação em contrário, a criatura retorna à vida com quaisquer condições, contágios mágicos ou maldições que a afetavam no momento da morte, se a duração desses efeitos ainda estiver em andamento.\r\nSe a criatura morreu com qualquer nível de Exaustão, ela retorna com 1 nível a menos. Se a criatura tiver sintonização com um ou mais itens mágicos, ela não estará mais sintonizada com eles."
-  },
-  {
-    "title": "Dropping prone",
-    "transTitle": "Jogar-se no chão",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "No seu turno, você pode obter a condição Caído (veja o glossário de regras) sem usar uma ação ou qualquer velocidade, mas não pode fazer isso se sua Velocidade for 0."
-  },
-  {
-    "title": "Initiative",
-    "transTitle": "Iniciativa",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "A iniciativa determina a ordem dos turnos durante o combate. Quando o combate começa, cada participante testa Iniciativa; eles fazem um teste de Destreza que determina seu lugar na ordem de Iniciativa. O Mestre rola para monstros. Para um grupo de criaturas idênticas, o Mestre faz uma única jogada, de modo que cada membro do grupo tenha a mesma Iniciativa."
-  },
-  {
-    "title": "Melee Attacks",
-    "transTitle": "Ataque corpo a corpo",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Um ataque corpo a corpo permite que você ataque um alvo ao seu alcance. Um ataque corpo a corpo normalmente usa uma arma portátil ou um Ataque Desarmado. Muitos monstros fazem ataques corpo a corpo com garras, dentes ou outras partes do corpo. Alguns feitiços também envolvem ataques corpo a corpo.\n\nAlcance: Uma criatura tem alcance de um pé e pode, portanto, atacar alvos em um raio de 1,5 metro ao fazer um ataque corpo a corpo. Certas criaturas têm ataques corpo a corpo com alcance superior a 1,5 metro, conforme observado em suas descrições.\n\nAtaques de oportunidade: Os combatentes esperam que os inimigos baixem a guarda. Se você passar descuidadamente por seus inimigos, você se coloca em perigo ao provocar um Ataque de Oportunidade.\n\nEvitando ataques de oportunidade: Você pode evitar provocar um Ataque de Oportunidade realizando a ação Desengajar. Você também não provoca um Ataque de Oportunidade quando se Teletransporta ou quando é movido sem usar seu movimento, ação, Ação Bônus ou Reação. Por exemplo, você não provoca um Ataque de Oportunidade se uma explosão o arremessar para fora do alcance de um inimigo ou se você passar por um inimigo.\n\nFazendo um ataque de oportunidade: Você pode fazer um Ataque de Oportunidade quando uma criatura que você pode ver sai do seu alcance. Para fazer o ataque,\nrealize uma Reação para realizar um ataque corpo a corpo com uma arma ou um Ataque Desarmado contra aquela criatura. O ataque ocorre logo antes de sair do seu alcance."
-  },
-  {
-    "title": "Mounted Combat",
-    "transTitle": "Combate montado",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Uma criatura voluntária que seja pelo menos um tamanho maior que um cavaleiro e que tenha uma anatomia apropriada pode servir como montaria, usando as seguintes regras.\n\nMontagem e Desmontagem: Durante seu movimento, você pode montar em uma criatura que esteja a até 1,5 metro (5 fts) de você ou desmontar. Fazer isso custa uma quantidade de movimento igual à metade do seu Deslocamento (arredondada para baixo). Por exemplo, se seu Deslocamentofor 9 metros, você gasta 4,5 metros de movimento para montar um cavalo.\n\nControlando uma montaria: Você só pode controlar uma montaria se ela tiver sido treinada para aceitar um cavaleiro. Cavalos domesticados, mulas e criaturas semelhantes recebem esse treinamento.\n\nA Iniciativa de uma montaria controlada muda para corresponder à sua quando você a monta. Ele se move no seu turno conforme você o direciona e tem apenas três opções de ação durante esse turno: Correr, Desengajar e Esquivar. Uma montaria controlada pode se mover e agir mesmo no turno em que você a monta.\n\nEm contraste, uma montaria independente – que permite montar, mas ignora seu controle – mantém seu lugar na ordem de Iniciativa e se move e age como quiser.\n\nCaindo da montaria: Se um efeito estiver prestes a mover sua montaria contra a vontade enquanto você estiver montado nela, você deve ser bem sucedido em um teste de resistência de Destreza CD 10 ou cairá, caindo na condição Caído (veja o glossário de regras) em um espaço desocupado a até 1,5 metro da montaria.\n\nEnquanto estiver montado, você deve fazer o mesmo salvamento se for derrubado ou se a montaria estiver."
-  },
-  {
-    "title": "Movimente",
-    "transTitle": "Movimento",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Uma criatura tem Velocidade, que é a distância em pés que a criatura pode percorrer quando se move em seu turno. Veja também “Escalar”, “Rastejar”, ​​“Voar”, “Saltar”, “Natação” e o capítulo 1 (“Combate”)."
-  },
-  {
-    "title": "Opportunity attacks",
-    "transTitle": "Ataque de oportunidade",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Você pode fazer um Ataque de Oportunidade quando uma criatura que você pode ver sai do seu alcance usando sua ação, sua Ação Bônus, sua Reação ou uma de suas velocidades. Para realizar o Ataque de Oportunidade, realize uma Reação para realizar um ataque corpo a corpo com uma arma ou um Ataque Desarmado contra a criatura provocadora.\r\nO ataque ocorre logo antes da criatura sair do seu alcance. Veja também o capítulo 1 (“Combate”)."
-  },
-  {
-    "title": "Ranged Attacks",
-    "transTitle": "Ataque à distância",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Quando você faz um ataque à distância, você dispara um arco, arremessa um machado ou envia projéteis para atingir um inimigo à distância. Muitos feitiços também envolvem ataques à distância.\n\nVocê pode realizar ataques à distância apenas contra alvos dentro de um alcance específico. Se um ataque à distância, como um feito com uma magia, tiver um único alcance, você não pode atacar um alvo além deste alcance. Alguns ataques à distância, como aqueles feitos com arco longo, têm dois alcances. O número menor é o intervalo normal e o número maior é o intervalo longo. Sua jogada de ataque tem Desvantagem quando seu alvo está além do alcance normal e você não pode atacar um alvo além do alcance longo.\n\nAtaques à distância em combate corpo a corpo: Mirar um ataque à distância é mais difícil quando um inimigo está próximo a você. Quando você faz uma jogada de ataque à distância com uma arma, um feitiço ou algum outro meio, você tem Desvantagem na jogada se estiver a até 1,5 metro de um inimigo que possa vê-lo e não tenha a condição Incapacitado (veja as regras glossário)."
-  },
-  {
-    "title": "Reation",
-    "transTitle": "Reação",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Uma Reação é uma ação especial realizada em resposta a um gatilho definido na descrição da Reação. Você pode realizar uma Reação no turno de outra criatura e, se fizer isso no seu turno, poderá fazê-lo mesmo que também realize uma ação, uma Ação Bônus ou ambas. Depois de realizar uma Reação, você não poderá realizar outra até o início do seu próximo turno.\n,\nO Ataque de Oportunidade é uma Reação disponível para todas as criaturas. Consulte também “Ataques de oportunidade” e capítulo 1 (“Ações”)."
-  },
-  {
-    "title": "Spell Attack",
-    "transTitle": "Ataque Mágico",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Um ataque mágico é uma jogada de ataque feita como parte de um feitiço ou outro efeito mágico. Veja também o capítulo 7 (“Lançando Feitiços”)."
-  },
-  {
-    "title": "Stunned",
-    "transTitle": "Atordoado",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Se um combatente for surpreendido ao iniciar o combate, esse combatente terá Desvantagem em seu teste de Iniciativa. Por exemplo, se um emboscador inicia o combate enquanto está escondido de um inimigo que não sabe que o combate está começando, esse inimigo fica surpreso."
-  },
-  {
-    "title": "Underwater Combat",
-    "transTitle": "Combate Subaquático",
-    "tag": "Combate",
-    "shortDesc": "",
-    "fullDesc": "Uma luta debaixo d'água segue estas regras.\n\nArmas Impedidas: Ao fazer uma jogada de ataque corpo a corpo com uma arma debaixo d'água, uma criatura que não tenha Velocidade de Natação terá Desvantagem na jogada de ataque, a menos que a arma cause dano Perfurante.\n\nUma jogada de ataque à distância com uma arma debaixo d'água erra automaticamente um alvo além do alcance normal da arma, e a jogada de ataque tem Desvantagem contra um alvo dentro do alcance normal.\n\nResistência ao fogo: Qualquer coisa debaixo d'água tem Resistência ao dano de Fogo (explicado em “Dano e Cura”)."
-  },
-  
-  {
-    "title": "Blinded",
-    "transTitle": "Cego",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Não consigo ver. Você não pode ver e falha automaticamente em qualquer teste de habilidade que exija visão.\n\nAtaques afetados: As jogadas de ataque contra você têm Vantagem e suas jogadas de ataque têm Desvantagem."
-  },
-  {
-    "title": "Burning",
-    "transTitle": "Queimando",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Uma criatura ou objeto em chamas sofre 1d4 de dano de Fogo no início de cada um de seus turnos. Como uma ação, você pode extinguir o fogo em si mesmo colocando-se na condição Caído e rolando no chão. O fogo também se apaga se for apagado, submerso ou sufocado."
-  },
-  {
-    "title": "Charmed",
-    "transTitle": "Encantado",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Não posso prejudicar o encantador. Você não pode atacar o encantador ou atingi-lo com habilidades prejudiciais ou efeitos mágicos.\nVantagem Social. \n\nO encantador tem Vantagem em qualquer teste de habilidade para interagir socialmente com você."
-  },
-  {
-    "title": "Deafened",
-    "transTitle": "Sudo",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Não consigo ouvir. Você não pode ouvir e falha automaticamente em qualquer teste de habilidade que exija audição."
-  },
-  {
-    "title": "Dehydration",
-    "transTitle": "Desidratação",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Uma criatura requer uma quantidade de água por dia com base em seu tamanho, conforme mostrado na tabela Necessidades de Água por Dia. Uma criatura que bebe menos da metade da água necessária para um dia ganha 1 nível de Exaustão no final do dia. A exaustão causada pela desidratação não pode ser removida até que a criatura beba a quantidade total de água necessária para um dia. Veja também “Exaustão”."
-  },
-  {
-    "title": "Exhaustion",
-    "transTitle": "Exausto",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Níveis de exaustão. Esta condição é cumulativa. Cada vez que você o recebe, você ganha 1 nível de Exaustão. Você morre se seu nível de exaustão for 6.\n\nTestes D20 afetados. Quando você faz um Teste D20, o teste é reduzido em 2 por nível de Exaustão.\n\nDeslocamento reduzido: Seu Deslocamento é reduzido em 1,5 metros (5 pés) por nível de Exaustão.\n\nRemovendo níveis de exaustão: Terminar um descanso longo remove 1 dos seus níveis de exaustão. Quando seu nível de Exaustão chega a 0, a condição termina."
-  },
-  {
-    "title": "Falling",
-    "transTitle": "Queda",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Uma criatura que caia sofre 1d6 de dano de concussão no final da queda para cada 3 metros que caiu, até um máximo de 20d6. Quando a criatura pousa, ela fica caída, a menos que evite sofrer qualquer dano da queda.\n\nUma criatura que cai na água ou em outro líquido pode usar sua Reação para fazer um teste de Força (Atletismo) ou Destreza (Acrobacia) CD 15 para atingir a superfície com a cabeça ou os pés primeiro. Se obtiver sucesso no teste, qualquer dano resultante da queda é reduzido pela metade."
-  },
-  {
-    "title": "Falling Unconscious",
-    "transTitle": "Morrendo",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Se você atingir 0 Pontos de Vida e não morrer instantaneamente, você terá a condição Inconsciente (veja o glossário de regras) até recuperar quaisquer Pontos de Vida, e agora você terá que fazer Testes de Resistência contra a Morte (veja abaixo).\n\nSempre que você começar seu turno com 0 Pontos de Vida, você deve fazer um Teste de Resistência à Morte para determinar se você se aproxima da morte ou se agarra à vida. Ao contrário de outros testes de resistência, este não está vinculado a um valor de habilidade. Você está nas mãos do destino agora.\n\nTrês sucessos/fracassos. Role 1d20. Se o resultado for 10 ou mais, você teve sucesso\n. Caso contrário, você falha. Um sucesso ou fracasso não tem efeito por si só. No seu terceiro sucesso, você se torna Estável (veja “Estabilizando um Personagem” abaixo). Na sua terceira falha, você morre.\n\nOs sucessos e fracassos não precisam ser consecutivos; acompanhe ambos até coletar uma trinca.\n\nO número de ambos é zerado quando você recupera quaisquer Pontos de Vida ou se torna Estável.\n\nRolando 1 ou 20. Quando você rola 1 no d20 para um teste de resistência contra a morte, você sofre duas falhas. Se você tirar 20 no d20, você recupera 1 Ponto de Vida.\n\nDano em 0 pontos de vida. Se você sofrer algum dano enquanto tiver 0 Pontos de Vida, você sofre uma falha no Teste de Resistência à Morte. Se o dano for de um Acerto Crítico, você sofre duas falhas. Se o dano for igual ou superior ao seu Ponto de Vida máximo, você morre."
-  },
-  {
-    "title": "Frightened",
-    "transTitle": "Amendrontado",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Testes de habilidade e ataques afetados. Você tem Desvantagem em testes de habilidade e jogadas de ataque enquanto a fonte do medo estiver dentro da linha de visão.\n\nNão consigo me aproximar. Você não pode se aproximar voluntariamente da fonte do medo."
-  },
-  {
-    "title": "Grappled",
-    "transTitle": "Agarrado",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Deslocamento 0: Sua deslocamento é 0 e não pode aumentar.\n\nAtaques afetados: Você tem Desvantagem nas jogadas de ataque contra qualquer alvo que não seja o agarrador.\n\nMobilidade: O Agarrador pode arrastar ou carregar você quando se move, mas cada metro de movimento custa 1 deslocamento extra, a menos que você seja Miúdo ou dois ou mais tamanhos menor que ele."
-  },
-  {
-    "title": "Grappling",
-    "transTitle": "Agarrar",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Uma criatura pode agarrar outra criatura. Personagens normalmente agarram usando um Ataque Desarmado. Muitos monstros têm ataques especiais que permitem que eles agarrem rapidamente uma presa. Não importa como um agarrão seja iniciado, ele segue estas regras. Veja também “Ataque Desarmado” e “Agarrado”.\n\nCondição Agarrado: Agarrar uma criatura com sucesso dá a ela a condição Agarrado.\n\nUm Agarrar por Mão: Uma criatura deve ter uma mão livre para agarrar outra criatura. Alguns blocos de estatísticas e efeitos de jogo permitem que uma criatura agarre usando um tentáculo, uma mandíbula ou outra parte do corpo. Qualquer que seja a parte que um agarrão use, ele pode agarrar apenas uma criatura por vez com aquela parte, e o agarrão não pode usar aquela parte para mirar em outra criatura a menos que termine o agarrão.\n\nEscapar de um Agarrar: Uma criatura Agarrada pode usar sua ação para fazer um teste de Força (Atletismo) ou Destreza (Acrobacia) contra a CD de fuga do agarrão, terminando a condição em si mesma em um sucesso. A condição também termina se o lutador tiver a condição Incapacitado ou se a distância entre o alvo Agarrado e o lutador exceder o alcance do agarramento."
-  },
-  {
-    "title": "Immunity",
-    "transTitle": "Imunidade",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Se você tiver imunidade a um tipo de dano ou condição, isso não afetará você de forma alguma."
-  },
-  {
-    "title": "Incapacitated",
-    "transTitle": "Incapacitado",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Enquanto você tem a condição Incapacitado, você experimenta os seguintes efeitos.\n\nInativo: Você não pode realizar nenhuma Ação, Ação Bônus ou Reação.\n\nSem Concentração: Sua Concentração está quebrada.\n\nSem Palavras: Você não pode falar.\n\nSurpreso: Se você estiver Incapacitado quando rolar Iniciativa, você tem Desvantagem na rolagem."
-  },
-  {
-    "title": "Invisible",
-    "transTitle": "Invisível",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Enquanto você tem a condição Invisível, você experimenta os seguintes efeitos.\n\nSurpresa: Se você estiver Invisível quando rolar Iniciativa, você tem Vantagem na rolagem.\n\nOculto: Você não é afetado por nenhum efeito que exija que seu alvo seja visto, a menos que o criador do efeito possa de alguma forma vê-lo. Qualquer equipamento que você esteja vestindo ou carregando também é oculto.\n\nAtaques Afetados: Rolagens de ataque contra você têm Desvantagem, e suas rolagens de ataque têm Vantagem. Se uma criatura puder de alguma forma vê-lo, você não ganha este benefício contra aquela criatura."
-  },
-  {
-    "title": "Malnutrition",
-    "transTitle": "Denutrição",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Uma criatura precisa de uma quantidade de comida por dia com base em seu tamanho, conforme mostrado na tabela Food Needs per Day. Uma criatura que come, mas consome menos da metade da comida necessária para um dia deve ser bem-sucedida em um teste de resistência de Constituição CD 10 ou ganhar 1 nível de Exaustão no final do dia. Uma criatura que não come nada por 5 dias ganha automaticamente 1 nível de Exaustão no final do quinto dia, bem como um nível adicional no final de cada dia subsequente sem comida.\nA exaustão causada pela desnutrição não pode ser removida até que a criatura coma a quantidade total de comida necessária para um dia. Veja também “Exaustão”."
-  },
-  {
-    "title": "Paralyzed",
-    "transTitle": "Paralisado",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Enquanto você tem a condição Paralisado, você experimenta os seguintes efeitos.\n\nIncapacitado: Você tem a condição Incapacitado.\n\nDeslocamento: Seu Deslocamento é 0 e não pode aumentar.\n\nTestes de Resistência Afetados: Você falha automaticamente em testes de resistência de Força e Destreza.\n\nAtaques Afetados: Rolagens de ataque contra você têm Vantagem.\n\nAcertos Críticos Automáticos: Qualquer teste de ataque que acerte você é um Acerto Crítico se o atacante estiver a até 1,5 m de você."
-  },
-  {
-    "title": "Petrified",
-    "transTitle": "Petrificado",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Enquanto você tem a condição Petrificado, você experimenta os seguintes efeitos.\n\nTransformado em Substância Inanimada: Você é transformado, junto com quaisquer objetos não mágicos que você esteja vestindo e carregando, em uma substância sólida inanimada (geralmente pedra). Seu peso aumenta por um fator de dez, e você para de envelhecer.\n\nIncapacitado: Você tem a condição Incapacitado.\n\nDeslocamento: Seu Deslocamento é 0 e não pode aumentar.\n\nAtaques Afetados: Rolagens de ataque contra você têm Vantagem.\n\nTestes de Resistência Afetados: Você falha automaticamente em testes de resistência de Força e Destreza.\n\nResistir a Dano: Você tem Resistência a todos os danos.\n\nImunidade a Veneno: Você tem Imunidade à condição Envenenado."
-  },
-  {
-    "title": "Poisoned",
-    "transTitle": "Envenenado",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Enquanto estiver na condição Envenenado, você experimentará o seguinte efeito.\n\nTestes de habilidade e ataques afetados. Você tem Desvantagem em jogadas de ataque e testes de habilidade."
-  },
-  {
-    "title": "Prone",
-    "transTitle": "Caído",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Enquanto estiver na condição Propenso, você sentirá os seguintes efeitos.\n\nMovimento restrito: Suas únicas opções de movimento são rastejar ou gastar uma quantidade de movimento igual à metade de sua Velocidade (arredondada para baixo) para se endireitar e, assim, encerrar a condição. Se sua velocidade for 0, você não conseguirá se endireitar.\n\nAtaques afetados: Você tem Desvantagem nas jogadas de ataque. Uma jogada de ataque contra você tem Vantagem se o atacante estiver a até 1,5 metro de você. Caso contrário, a jogada de ataque terá Desvantagem."
-  },
-  {
-    "title": "Resistence",
-    "transTitle": "Resistância",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Se você tiver Resistência a um tipo de dano, o dano desse tipo será reduzido pela metade contra você (arredondado para baixo). A resistência é aplicada apenas uma vez a uma ocorrência de dano. Veja também o capítulo 1 (“Dano e Cura”)."
-  },
-  {
-    "title": "Restrained",
-    "transTitle": "Restringido",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Enquanto estiver na condição Restringido, você experimentará os seguintes efeitos.\n\nDeslocamento: Seu Deslocamento é 0 e não pode aumentar.\n\nAtaques afetados: As jogadas de ataque contra você têm Vantagem e suas jogadas de ataque têm Desvantagem.\n\nTestes de resistência afetados: Você tem Desvantagem em testes de resistência de Destreza."
-  },
-  {
-    "title": "Stunned",
-    "transTitle": "Atordoado",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Enquanto estiver na condição Atordoado, você experimentará os seguintes efeitos.\n\nIncapacitado: Você tem a condição Incapacitado.\n\nTestes de resistência afetados: Você falha automaticamente nos testes de resistência de Força e Destreza.\n\nAtaques afetados: As jogadas de ataque contra você têm Vantagem."
-  },
-  {
-    "title": "Suffocation",
-    "transTitle": "Asfixia",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Uma criatura precisa de uma quantidade de comida por dia com base em seu tamanho, conforme mostrado na tabela Food Needs per Day. Uma criatura que come, mas consome menos da metade da comida necessária para um dia deve ser bem-sucedida em um teste de resistência de Constituição CD 10 ou ganhar 1 nível de Exaustão no final do dia. Uma criatura que não come nada por 5 dias ganha automaticamente 1 nível de Exaustão no final do quinto dia, bem como um nível adicional no final de cada dia subsequente sem comida.\n\nA exaustão causada pela desnutrição não pode ser removida até que a criatura coma a quantidade total de comida necessária para um dia. Veja também “Exaustão”."
-  },
-  {
-    "title": "Surprise",
-    "transTitle": "Surpresa",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Se uma criatura for pega de surpresa no início do combate, ela será surpreendida, o que faz com que ela tenha Desvantagem em seu teste de Iniciativa."
-  },
-  {
-    "title": "Unconscious",
-    "transTitle": "Inconsciente",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Enquanto você estiver na condição Inconsciente, você experimentará os seguintes efeitos.\n\nInerte: Você tem as condições Incapacitado e Propenso e deixa cair tudo o que estiver segurando. Quando esta condição termina, você permanece propenso.\n\nDeslocamento: Seu Deslocamento é 0 e não pode aumentar.\n\nAtaques afetados: As jogadas de ataque contra você têm Vantagem.\n\nTestes de resistência afetados: Você falha automaticamente nos testes de resistência de Força e Destreza.\n\nAcertos Críticos Automáticos: Qualquer jogada de ataque que atingir você será um Acerto Crítico se o atacante estiver a até 1,5 metro de você.\n\nInconsciente: Você não tem consciência do que está ao seu redor."
-  },
-  {
-    "title": "Vulnerability",
-    "transTitle": "Vulnerabilidade",
-    "tag": "Condição",
-    "shortDesc": "",
-    "fullDesc": "Se você tiver Vulnerabilidade a um tipo de dano, o dano desse tipo será dobrado contra você. Se você tiver Vulnerabilidade a dano de Fogo, esse dano será dobrado contra você."
-  },
-  {
-    "title": "Cleave",
-    "transTitle": "Dividir",
-    "tag": "Maestria em Arma",
-    "shortDesc": "",
-    "fullDesc": "Se você acertar uma criatura com uma jogada de ataque corpo a corpo usando esta arma, você pode fazer uma jogada de ataque corpo a corpo com a arma contra uma segunda criatura a até 1,5 metros (5 Pés) da primeira que também esteja ao seu alcance. Em um acerto, a segunda criatura sofre o dano da arma, mas não adicione seu modificador de habilidade a esse dano, a menos que esse modificador seja negativo. Você pode fazer esse ataque extra apenas uma vez por turno."
-  },
-  {
-    "title": "Graze",
-    "transTitle": "Raspar",
-    "tag": "Maestria em Arma",
-    "shortDesc": "",
-    "fullDesc": "Se sua jogada de ataque com esta arma errar uma criatura, você pode causar dano àquela criatura igual ao modificador de habilidade que você usou para fazer a jogada de ataque. Este dano é do mesmo tipo causado pela arma, e o dano pode ser aumentado apenas aumentando o modificador de habilidade."
-  },
-  {
-    "title": "Nick",
-    "transTitle": "Agilizar",
-    "tag": "Maestria em Arma",
-    "shortDesc": "",
-    "fullDesc": "Quando você faz o ataque extra da propriedade Leve, você pode fazê-lo como parte da ação Ataque em vez de como uma Ação Bônus. Você pode fazer esse ataque extra apenas uma vez por turno."
-  },
-  {
-    "title": "Push",
-    "transTitle": "Empurrar",
-    "tag": "Maestria em Arma",
-    "shortDesc": "",
-    "fullDesc": "Se você atingir uma criatura com esta arma, você pode empurrá-la até 3 metros (10 pés) para longe de você, se ela for Grande ou menor."
-  },
-  {
-    "title": "Sap",
-    "transTitle": "Enfraquecer",
-    "tag": "Maestria em Arma",
-    "shortDesc": "",
-    "fullDesc": "Se você atingir uma criatura com esta arma, essa criatura terá Desvantagem em sua próxima jogada de ataque antes do início do seu próximo turno."
-  },
-  {
-    "title": "Slow",
-    "transTitle": "Retardar",
-    "tag": "Maestria em Arma",
-    "shortDesc": "",
-    "fullDesc": "Se você atingir uma criatura com esta arma e causar dano a ela, você pode reduzir seu Deslocamento em 3 metros (10 pés) até o início do seu próximo turno. Se a criatura for atingida mais de uma vez por armas que tenham esta propriedade, a redução de Deslocameno não excede 3 metros (10 pés)."
-  },
-  {
-    "title": "Topple",
-    "transTitle": "Derrubar",
-    "tag": "Maestria em Arma",
-    "shortDesc": "",
-    "fullDesc": "Se você atingir uma criatura com esta arma, você pode forçar a criatura a fazer um teste de resistência de Constituição (CD 8 mais o modificador de habilidade usado para fazer a jogada de ataque e seu Bônus de Proficiência). Em um teste de resistência falho, a criatura tem a condição Caído."
-  },
-  {
-    "title": "Vex",
-    "transTitle": "Debilitar",
-    "tag": "Maestria em Arma",
-    "shortDesc": "",
-    "fullDesc": "Se você atingir uma criatura com esta arma e causar dano à criatura, você tem Vantagem na sua próxima jogada de ataque contra aquela criatura antes do final do seu próximo turno."
-  },
-  
-  {
-    "title": "Climbing",
-    "transTitle": "Escalando",
-    "tag": "Movimentação",
-    "shortDesc": "",
-    "fullDesc": "Enquanto você está escalando, cada metro de movimento custa 1 pé extra (2 pés extras em Terreno Difícil). Você ignora esse custo extra se tiver Velocidade de Subida e a usa para escalar.\nA critério do Mestre, escalar uma superfície escorregadia ou com poucos apoios para as mãos pode exigir um teste bem-sucedido de Força (Atletismo) CD 15."
-  },
-  {
-    "title": "Crawing",
-    "transTitle": "Rastejando",
-    "tag": "Movimentação",
-    "shortDesc": "",
-    "fullDesc": "Enquanto você rasteja, cada metro de movimento custa 1 metro extra (2 pés extras em Terreno Difícil). Consulte também “Velocidade”."
-  },
-  {
-    "title": "Difficult Terrain",
-    "transTitle": "Terreno Difícil",
-    "tag": "Movimentação",
-    "shortDesc": "",
-    "fullDesc": "Os combatentes costumam ser retardados por terrenos difíceis. Móveis baixos, entulho, vegetação rasteira, escadas íngremes, neve e pântanos rasos são exemplos de Terreno Difícil. Cada metro de movimento em Terreno Difícil custa 1 metro extra, mesmo que várias coisas em um espaço contem como Terreno Difícil.\n\nUm espaço é considerado Terreno Difícil se contiver qualquer um dos seguintes itens ou algo semelhante:\n\n> Uma criatura que não seja Tiny ou seu aliado\n> Móveis dimensionados para criaturas do seu tamanho ou maiores\n> Neve pesada, gelo, escombros ou vegetação rasteira\n> Líquido que fica entre a canela e a cintura\n> Uma abertura estreita dimensionada para uma criatura um tamanho menor que você\n> Uma inclinação de 20 graus ou mais"
-  },
-  {
-    "title": "Flying",
-    "transTitle": "Voando",
-    "tag": "Movimentação",
-    "shortDesc": "",
-    "fullDesc": "Uma variedade de efeitos permite que uma criatura voe. Enquanto voa, você cai se estiver na condição Incapacitado ou Pronado ou se sua Velocidade de Voo for reduzida a 0. Você pode permanecer no ar nessas circunstâncias se puder pairar. Veja também “Queda” e “Velocidade de voo”."
-  },
-  {
-    "title": "Interacting with Objects",
-    "transTitle": "Interagindo com Objetos",
-    "tag": "Movimentação",
-    "shortDesc": "",
-    "fullDesc": ""
-  },
-  {
-    "title": "Jumping",
-    "transTitle": "Saltando",
-    "tag": "Movimentação",
-    "shortDesc": "",
-    "fullDesc": "Ao saltar, você realiza um salto em distância (horizontal) ou um salto em altura (vertical). Veja também “Salto em distância” e “Salto em altura”."
-  },
-  {
-    "title": "Mounting and Dismounting",
-    "transTitle": "Montagem e Desmontagem",
-    "tag": "Movimentação",
-    "shortDesc": "Uma criatura voluntária que seja pelo menos um tamanho maior que um cavaleiro e que tenha uma anatomia apropriada pode servir como montaria, usando as seguintes regras.",
-    "fullDesc": "Durante seu movimento, você pode montar em uma criatura que esteja a até 1,5 metro de você ou desmontar. Fazer isso custa uma quantidade de movimento igual à metade da sua Velocidade (arredondada para baixo). Por exemplo, se sua Velocidade for 9 metros, você gasta 4,5 metros de movimento para montar um cavalo."
-  },
-  {
-    "title": "Swimming",
-    "transTitle": "Natando",
-    "tag": "Movimentação",
-    "shortDesc": "",
-    "fullDesc": "Enquanto você está nadando, cada metro de movimento custa 1 pé extra (2 pés extras em Terreno Difícil). Você ignora esse custo extra se tiver Velocidade de Natação e usá-la para nadar. A critério do Mestre, mover-se qualquer distância em águas agitadas pode exigir um teste bem-sucedido de Força (Atletismo) CD 15."
-  },
-  
-  {
-    "title": "Acrobatics",
-    "transTitle": "Acrobacia",
-    "tag": "Perícia",
-    "shortDesc": "DEX",
-    "fullDesc": "Fique de pé em uma situação complicada ou faça uma acrobacia."
-  },
-  {
-    "title": "Animal Handling",
-    "transTitle": "Adestrar animais",
-    "tag": "Perícia",
-    "shortDesc": "WIS",
-    "fullDesc": "Acalme ou treine um animal, ou faça com que ele se comporte de determinada maneira."
-  },
-  {
-    "title": "Arcana",
-    "transTitle": "Arcano",
-    "tag": "Perícia",
-    "shortDesc": "INT",
-    "fullDesc": "Lembre-se da tradição sobre feitiços, itens mágicos e planos de existência."
-  },
-  {
-    "title": "Athetics",
-    "transTitle": "Atletismo",
-    "tag": "Perícia",
-    "shortDesc": "STR",
-    "fullDesc": "Salte mais longe do que o normal, fique flutuando em águas agitadas ou quebre alguma coisa."
-  },
-  {
-    "title": "Performance",
-    "transTitle": "Atuação",
-    "tag": "Perícia",
-    "shortDesc": "CHA",
-    "fullDesc": "Aja, conte uma história, apresente música ou dance."
-  },
-  {
-    "title": "Deception",
-    "transTitle": "Enganação",
-    "tag": "Perícia",
-    "shortDesc": "CHA",
-    "fullDesc": "Conte uma mentira convincente ou use um disfarce de forma convincente."
-  },
-  {
-    "title": "Stealth",
-    "transTitle": "Esconder-se",
-    "tag": "Perícia",
-    "shortDesc": "DEX",
-    "fullDesc": "Fuja da atenção movendo-se silenciosamente e escondendo-se atrás das coisas."
-  },
-  {
-    "title": "History",
-    "transTitle": "História",
-    "tag": "Perícia",
-    "shortDesc": "INT",
-    "fullDesc": "Lembre-se da tradição sobre eventos históricos, pessoas, nações e culturas."
-  },
-  {
-    "title": "Intimidation",
-    "transTitle": "Intimidação",
-    "tag": "Perícia",
-    "shortDesc": "CHA",
-    "fullDesc": "Admirar ou ameaçar alguém para fazer o que você quer."
-  },
-  {
-    "title": "Insight",
-    "transTitle": "Intuição",
-    "tag": "Perícia",
-    "shortDesc": "WIS",
-    "fullDesc": "Discernir o humor e as intenções de uma pessoa."
-  },
-  {
-    "title": "Investigation",
-    "transTitle": "Investigação",
-    "tag": "Perícia",
-    "shortDesc": "INT",
-    "fullDesc": "Encontre informações obscuras em livros ou deduza como algo funciona."
-  },
-  {
-    "title": "Medicine",
-    "transTitle": "Medicina",
-    "tag": "Perícia",
-    "shortDesc": "WIS",
-    "fullDesc": "Diagnosticar uma doença ou determinar o que matou os recentemente assassinados."
-  },
-  {
-    "title": "Nature",
-    "transTitle": "Natureza",
-    "tag": "Perícia",
-    "shortDesc": "INT",
-    "fullDesc": "Lembre-se de conhecimentos sobre terreno, plantas, animais e clima."
-  },
-  {
-    "title": "Perception",
-    "transTitle": "Percepção",
-    "tag": "Perícia",
-    "shortDesc": "WIS",
-    "fullDesc": "Usando uma combinação de sentidos, observe algo que é fácil de perder."
-  },
-  {
-    "title": "Persuasion",
-    "transTitle": "Persuasão",
-    "tag": "Perícia",
-    "shortDesc": "CHA",
-    "fullDesc": "Convencer alguém de algo de maneira honesta e graciosa."
-  },
-  {
-    "title": "Sleight of Hand",
-    "transTitle": "Prestidigitação",
-    "tag": "Perícia",
-    "shortDesc": "DEX",
-    "fullDesc": "Escolha um bolso, esconda um objeto portátil ou faça prestidigitação."
-  },
-  {
-    "title": "Religion",
-    "transTitle": "Religião",
-    "tag": "Perícia",
-    "shortDesc": "INT",
-    "fullDesc": "Lembre-se da tradição sobre deuses, rituais religiosos e símbolos sagrados."
-  },
-  {
-    "title": "Survival",
-    "transTitle": "Sobrevivência",
-    "tag": "Perícia",
-    "shortDesc": "WIS",
-    "fullDesc": "Siga trilhas, procure alimentos, encontre uma trilha ou evite perigos naturais."
-  },
-  
-  {
-    "title": "Ammunition",
-    "transTitle": "Munição",
-    "tag": "Propriedade das Armas",
-    "shortDesc": "",
-    "fullDesc": "Você pode usar uma arma que tenha a propriedade Munição para fazer um ataque à distância somente se tiver munição para disparar dela. O tipo de munição necessária é especificado com o alcance da arma. Cada ataque gasta uma peça de munição. Sacar a munição faz parte do ataque (você precisa de uma mão livre para carregar uma arma de uma mão). Após uma luta, você pode gastar 1 minuto para recuperar metade da munição (arredondada para baixo) que usou na luta; o resto é perdido."
-  },
-  {
-    "title": "Finesse",
-    "transTitle": "Acuidade",
-    "tag": "Propriedade das Armas",
-    "shortDesc": "",
-    "fullDesc": "Ao fazer um ataque com uma arma Acuidade, use sua escolha de modificador de Força ou Destreza para as jogadas de ataque e dano. Você deve usar o mesmo modificador para ambas as jogadas."
-  },
-  {
-    "title": "Heavy",
-    "transTitle": "Pesado",
-    "tag": "Propriedade das Armas",
-    "shortDesc": "",
-    "fullDesc": "Você tem Desvantagem em jogadas de ataque com uma arma Pesada se for uma arma corpo a corpo e seu valor de Força não for pelo menos 13 ou se for uma arma de longo alcance e seu valor de Destreza não for pelo menos 13."
-  },
-  {
-    "title": "Improvised Weapons",
-    "transTitle": "Armas Improvisadas",
-    "tag": "Propriedade das Armas",
-    "shortDesc": "",
-    "fullDesc": "Se você usar um objeto — como uma perna de mesa, frigideira ou garrafa — como uma arma improvisada, veja “Armas Improvisadas” no glossário de regras. Veja também essas regras se você empunhar uma arma de forma incomum, como usar uma arma de longo alcance para fazer um ataque corpo a corpo."
-  },
-  {
-    "title": "Light",
-    "transTitle": "Leve",
-    "tag": "Propriedade das Armas",
-    "shortDesc": "",
-    "fullDesc": "Quando você realiza a ação de Ataque no seu turno e ataca com uma arma Leve, você pode fazer um ataque extra como uma Ação Bônus mais tarde no mesmo turno. Esse ataque extra deve ser feito com uma arma Leve diferente, e você não adiciona seu modificador de habilidade ao dano do ataque extra, a menos que esse modificador seja negativo. Por exemplo, você pode atacar com uma Espada Curta em uma mão e uma Adaga na outra usando a ação de Ataque e uma Ação Bônus, mas você não adiciona seu modificador de Força ou Destreza à jogada de dano da Ação Bônus, a menos que esse modificador seja negativo."
-  },
-  {
-    "title": "Loading",
-    "transTitle": "Recargar",
-    "tag": "Propriedade das Armas",
-    "shortDesc": "",
-    "fullDesc": "Você pode disparar apenas uma munição de uma arma de Recargar quando usa uma ação, uma Ação Bônus ou uma Reação para dispará-la, independentemente do número de ataques que você normalmente pode fazer."
-  },
-  {
-    "title": "Range",
-    "transTitle": "Alcance",
-    "tag": "Propriedade das Armas",
-    "shortDesc": "",
-    "fullDesc": "Uma arma de Distância tem um alcance entre parênteses após a propriedade Munição ou Arremesso. O alcance lista dois números. O primeiro é o alcance normal da arma em pés, e o segundo é o longo alcance da arma. Ao atacar um alvo além do alcance normal, você tem Desvantagem na jogada de ataque. Você não pode atacar um alvo além do longo alcance."
-  },
-  {
-    "title": "Reach",
-    "transTitle": "Haste",
-    "tag": "Propriedade das Armas",
-    "shortDesc": "",
-    "fullDesc": "Uma arma de haste adiciona 1,5 metros ao seu alcance quando você ataca com ela, bem como ao determinar seu alcance para Ataques de Oportunidade com ela."
-  },
-  {
-    "title": "Thrown",
-    "transTitle": "Arremessado",
-    "tag": "Propriedade das Armas",
-    "shortDesc": "",
-    "fullDesc": "Se uma arma tiver a propriedade Arremessado, você pode arremessar a arma para fazer um ataque à distância, e pode sacar essa arma como parte do ataque. Se a arma for uma arma corpo a corpo, use o mesmo modificador de habilidade para as jogadas de ataque e dano que você usa para um ataque corpo a corpo com essa arma."
-  },
-  {
-    "title": "Two-Handed",
-    "transTitle": "Duas mãos",
-    "tag": "Propriedade das Armas",
-    "shortDesc": "",
-    "fullDesc": "Uma arma de duas mãos requer duas mãos quando você ataca com ela."
-  },
-  {
-    "title": "Versatile",
-    "transTitle": "Versátil",
-    "tag": "Propriedade das Armas",
-    "shortDesc": "",
-    "fullDesc": "Uma arma versátil pode ser usada com uma ou duas mãos. Um valor de dano entre parênteses aparece com a propriedade. A arma causa esse dano quando usada com as duas mãos para fazer um ataque corpo a corpo."
-  }
-
-]
+  ]

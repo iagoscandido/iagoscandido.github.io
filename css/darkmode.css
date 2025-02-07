@@ -1,0 +1,61 @@
+.theme-button {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px 15px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.theme-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+* {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.dark-mode .item {
+  background-color: #1e1e1e;
+  border: 1px solid #444;
+  color: #e0e0e0;
+}
+
+.dark-mode .item.expanded {
+  background-color: #222;
+  color: white;
+}
+
+.dark-mode .title {
+  color: #f1f1f1;
+}
+
+.dark-mode .short-desc {
+  color: #b0b0b0;
+}
+
+.dark-mode .full-desc {
+  background-color: #252525;
+  border-left: 4px solid #007bff;
+  color: #d0d0d0;
+}
+
+.dark-mode .theme-button {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.dark-mode .theme-button:hover {
+  background-color: #0056b3;
+}

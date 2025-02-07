@@ -1,0 +1,15 @@
+/* General Page Styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+/* Container for Items */
+#items-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
