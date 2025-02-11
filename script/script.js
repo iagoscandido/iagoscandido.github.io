@@ -1,4 +1,4 @@
-// Constants
+import(createItemElement);
 const SELECTORS = {
   container: "#items-container",
   searchBar: ".search-bar",
